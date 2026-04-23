@@ -37,111 +37,114 @@ jobs:
           echo "Importeer jaar: $JAAR"
 
       - name: Initialiseer data map
-        run: |
-          mkdir -p data
-          # Zorg dat de map getrackt wordt door git
-          touch data/.gitkeep
+        run: mkdir -p data && touch data/.gitkeep
 
-      - name: Haal CBS gemeenten op
+      # ── 81955NED werkt bewezen op GitHub Actions (150KB) ────────────────
+      # Dataset bevat ZOWEL nieuwbouw/mutaties ALS vergunningen per gemeente
+      # Perioden formaat voor jaarcijfer: 2023JJ00
+
+      - name: Haal CBS woningmutaties op (81955NED — nieuwbouw + sloop)
         run: |
           JAAR="${{ steps.jaar.outputs.jaar }}"
+          PERIODE="${JAAR}JJ00"
+          OUTPUT="data/cbs_nieuwbouw_${JAAR}.json"
+
+          echo "Ophalen woningmutaties $JAAR via 81955NED..."
+
+          # Haal nieuwbouw/sloop kolommen op — 81955NED bevat beide
+          HTTP=$(curl -s -w "%{http_code}" \
+            -H "Accept: application/json" \
+            --user-agent "OverheidsmonitorNL/1.0" \
+            --output "$OUTPUT" \
+            "https://opendata.cbs.nl/ODataApi/OData/81955NED/UntypedDataSet?\$filter=startswith(RegioS,'GM')%20and%20Perioden%20eq%20'${PERIODE}'&\$top=500")
+
+          SIZE=$(stat -c%s "$OUTPUT" 2>/dev/null || echo 0)
+          echo "HTTP $HTTP — $SIZE bytes"
+
+          if [ "$HTTP" = "200" ] && [ "$SIZE" -gt 500 ]; then
+            echo "✅ Woningmutaties $JAAR: $SIZE bytes"
+            # Toon beschikbare kolomnamen uit eerste record
+            python3 -c "
+          import json, sys
+          with open('$OUTPUT') as f: d = json.load(f)
+          rows = d.get('value', d) if isinstance(d, dict) else d
+          if rows:
+              print('Beschikbare kolommen:', list(rows[0].keys()))
+              print('Eerste record:', rows[0])
+          " 2>/dev/null || head -c 500 "$OUTPUT"
+          else
+            echo "⚠️ Geen data voor $JAAR — probeer vorig jaar"
+            VORIG=$((JAAR-1))
+            HTTP2=$(curl -s -w "%{http_code}" \
+              -H "Accept: application/json" \
+              --user-agent "OverheidsmonitorNL/1.0" \
+              --output "$OUTPUT" \
+              "https://opendata.cbs.nl/ODataApi/OData/81955NED/UntypedDataSet?\$filter=startswith(RegioS,'GM')%20and%20Perioden%20eq%20'${VORIG}JJ00'&\$top=500")
+            SIZE2=$(stat -c%s "$OUTPUT" 2>/dev/null || echo 0)
+            echo "Vorig jaar ($VORIG): HTTP $HTTP2 — $SIZE2 bytes"
+            [ "$HTTP2" = "200" ] && [ "$SIZE2" -gt 500 ] && echo "✅ Gebruikt $VORIG als fallback" || echo '{"value":[]}' > "$OUTPUT"
+          fi
+
+      - name: Haal CBS vergunningen op (81955NED)
+        run: |
+          JAAR="${{ steps.jaar.outputs.jaar }}"
+          PERIODE="${JAAR}JJ00"
+          OUTPUT="data/cbs_vergunningen_${JAAR}.json"
+
+          echo "Ophalen vergunningen $JAAR..."
+          HTTP=$(curl -s -w "%{http_code}" \
+            -H "Accept: application/json" \
+            --user-agent "OverheidsmonitorNL/1.0" \
+            --output "$OUTPUT" \
+            "https://opendata.cbs.nl/ODataApi/OData/81955NED/UntypedDataSet?\$filter=startswith(RegioS,'GM')%20and%20Perioden%20eq%20'${PERIODE}'&\$select=RegioS,Perioden,VerleendeVergunningen_1,GeweigerdAanvragen_2&\$top=500")
+
+          SIZE=$(stat -c%s "$OUTPUT" 2>/dev/null || echo 0)
+          echo "HTTP $HTTP — $SIZE bytes"
+          [ "$HTTP" = "200" ] && [ "$SIZE" -gt 500 ] && echo "✅ Vergunningen $JAAR: $SIZE bytes" || echo '{"value":[]}' > "$OUTPUT"
+
+      - name: Haal CBS gemeenten op (82235NED of 81955NED RegioS)
+        run: |
+          OUTPUT="data/cbs_gemeenten.json"
           SUCCESS=false
-          
-          URLS=(
-            "https://opendata.cbs.nl/ODataApi/OData/37221ned/RegioS?\$filter=startswith(Key,'GM')&\$select=Key,Title&\$top=500"
-            "https://opendata.cbs.nl/ODataFeed/OData/37221ned/RegioS?\$filter=startswith(Key,'GM')&\$select=Key,Title&\$top=500&\$format=json"
-            "https://datasets.cbs.nl/odata/v1/CBS/37221ned/DimensionCodes/RegioS?\$filter=startswith(Identifier,'GM')&\$select=Identifier,Title&\$top=500"
-          )
-          
-          for URL in "${URLS[@]}"; do
-            echo "Probeer: $URL"
+
+          for DATASET in "82235NED" "81955NED"; do
+            echo "Probeer gemeenten via $DATASET..."
             HTTP=$(curl -s -w "%{http_code}" \
               -H "Accept: application/json" \
               --user-agent "OverheidsmonitorNL/1.0" \
-              --output data/cbs_gemeenten.json \
-              "$URL" 2>/dev/null)
-            SIZE=$(stat -c%s data/cbs_gemeenten.json 2>/dev/null || echo 0)
+              --output "$OUTPUT" \
+              "https://opendata.cbs.nl/ODataApi/OData/${DATASET}/RegioS?\$filter=startswith(Key,'GM')&\$select=Key,Title&\$top=500")
+            SIZE=$(stat -c%s "$OUTPUT" 2>/dev/null || echo 0)
             echo "  → HTTP $HTTP, $SIZE bytes"
             if [ "$HTTP" = "200" ] && [ "$SIZE" -gt 500 ]; then
-              echo "✅ Gemeenten opgehaald: $SIZE bytes"
+              echo "✅ Gemeenten via $DATASET: $SIZE bytes"
               SUCCESS=true
               break
             fi
           done
-          
-          if [ "$SUCCESS" = "false" ]; then
-            echo "⚠️ Gemeenten niet opgehaald via CBS"
-            echo '{"value":[]}' > data/cbs_gemeenten.json
-          fi
 
-      - name: Haal CBS nieuwbouw op
+          $SUCCESS || echo '{"value":[]}' > "$OUTPUT"
+
+      - name: Inspecteer kolomnamen nieuwbouw (voor job.php mapping)
         run: |
           JAAR="${{ steps.jaar.outputs.jaar }}"
-          PERIODE="${JAAR}JJ00"
-          SUCCESS=false
-          OUTPUT="data/cbs_nieuwbouw_${JAAR}.json"
-          
-          URLS=(
-            "https://opendata.cbs.nl/ODataApi/OData/37221ned/UntypedDataSet?\$filter=startswith(RegioS,'GM')%20and%20Perioden%20eq%20'${PERIODE}'&\$select=RegioS,Perioden,NieuwbouwToegevoegdAanDeVoorraad_8,OnttrokkenAanDeVoorraad_9,SaldoNieuwbouwOnttrekking_10,Koopwoningen_6,SocialeHuurwoningen_5,ParticuliereHuurwoningen_4&\$top=500"
-            "https://opendata.cbs.nl/ODataFeed/OData/37221ned/UntypedDataSet?\$filter=startswith(RegioS,'GM')%20and%20Perioden%20eq%20'${PERIODE}'&\$top=500&\$format=json"
-            "https://datasets.cbs.nl/odata/v1/CBS/37221ned/Observations?\$filter=Perioden%20eq%20'${PERIODE}'%20and%20startswith(RegioS,'GM')&\$top=5000"
-          )
-          
-          for URL in "${URLS[@]}"; do
-            echo "Probeer: $URL"
-            HTTP=$(curl -s -w "%{http_code}" \
-              -H "Accept: application/json" \
-              --user-agent "OverheidsmonitorNL/1.0" \
-              --output "$OUTPUT" \
-              "$URL" 2>/dev/null)
-            SIZE=$(stat -c%s "$OUTPUT" 2>/dev/null || echo 0)
-            echo "  → HTTP $HTTP, $SIZE bytes"
-            if [ "$HTTP" = "200" ] && [ "$SIZE" -gt 200 ]; then
-              echo "✅ Nieuwbouw $JAAR opgehaald: $SIZE bytes"
-              head -c 300 "$OUTPUT"
-              echo ""
-              SUCCESS=true
-              break
-            fi
-          done
-          
-          if [ "$SUCCESS" = "false" ]; then
-            echo "⚠️ Nieuwbouw $JAAR niet beschikbaar bij CBS"
-            echo '{"value":[]}' > "$OUTPUT"
-          fi
-
-      - name: Haal CBS vergunningen op
-        run: |
-          JAAR="${{ steps.jaar.outputs.jaar }}"
-          PERIODE="${JAAR}JJ00"
-          SUCCESS=false
-          OUTPUT="data/cbs_vergunningen_${JAAR}.json"
-          
-          URLS=(
-            "https://opendata.cbs.nl/ODataApi/OData/81955NED/UntypedDataSet?\$filter=startswith(RegioS,'GM')%20and%20Perioden%20eq%20'${PERIODE}'&\$select=RegioS,VerleendeVergunningen_1,GeweigerdAanvragen_2&\$top=500"
-            "https://opendata.cbs.nl/ODataFeed/OData/81955NED/UntypedDataSet?\$filter=startswith(RegioS,'GM')%20and%20Perioden%20eq%20'${PERIODE}'&\$top=500&\$format=json"
-          )
-          
-          for URL in "${URLS[@]}"; do
-            echo "Probeer: $URL"
-            HTTP=$(curl -s -w "%{http_code}" \
-              -H "Accept: application/json" \
-              --user-agent "OverheidsmonitorNL/1.0" \
-              --output "$OUTPUT" \
-              "$URL" 2>/dev/null)
-            SIZE=$(stat -c%s "$OUTPUT" 2>/dev/null || echo 0)
-            echo "  → HTTP $HTTP, $SIZE bytes"
-            if [ "$HTTP" = "200" ] && [ "$SIZE" -gt 200 ]; then
-              echo "✅ Vergunningen $JAAR opgehaald: $SIZE bytes"
-              SUCCESS=true
-              break
-            fi
-          done
-          
-          if [ "$SUCCESS" = "false" ]; then
-            echo "⚠️ Vergunningen $JAAR niet beschikbaar"
-            echo '{"value":[]}' > "$OUTPUT"
-          fi
+          python3 -c "
+          import json
+          with open('data/cbs_nieuwbouw_${JAAR}.json') as f:
+              d = json.load(f)
+          rows = d.get('value', [])
+          if rows:
+              cols = list(rows[0].keys())
+              print(f'Aantal rijen: {len(rows)}')
+              print(f'Kolommen ({len(cols)}):')
+              for c in cols: print(f'  {c}')
+              print()
+              # Zoek nieuwbouw-gerelateerde kolommen
+              nb_cols = [c for c in cols if any(x in c.lower() for x in ['nieuw','toeg','sloop','ontt','vergun','woning'])]
+              print('Woningbouw kolommen:', nb_cols)
+          else:
+              print('Geen data!')
+          " 2>/dev/null || echo "Python analyse mislukt"
 
       - name: Maak manifest
         run: |
@@ -153,10 +156,11 @@ jobs:
           {
             "last_updated": "$(date -u +%Y-%m-%dT%H:%M:%SZ)",
             "jaar": $JAAR,
+            "dataset": "81955NED",
             "nieuwbouw_bytes": $NB,
             "vergunningen_bytes": $VG,
             "gemeenten_bytes": $GM,
-            "bron": "CBS StatLine OData",
+            "bron": "CBS StatLine 81955NED",
             "licentie": "CC-BY 4.0"
           }
           EOF
@@ -167,14 +171,13 @@ jobs:
           git config user.name  "CBS Data Bot"
           git config user.email "sweetdz@users.noreply.github.com"
           git add data/
-          git status
           if git diff --staged --quiet; then
-            echo "Geen wijzigingen — data al actueel"
+            echo "Geen wijzigingen"
           else
             JAAR="${{ steps.jaar.outputs.jaar }}"
-            git commit -m "CBS sync jaar $JAAR — $(date +%Y-%m-%d)"
+            git commit -m "CBS sync jaar $JAAR via 81955NED — $(date +%Y-%m-%d)"
             git push
-            echo "✅ Data gepushed naar SweetDZ/overheidsmonitor-data"
+            echo "✅ Gepushed naar SweetDZ/overheidsmonitor-data"
           fi
 
       - name: Trigger hollandeq.nl
@@ -184,5 +187,4 @@ jobs:
           JAAR="${{ steps.jaar.outputs.jaar }}"
           curl -s --max-time 60 \
             "https://hollandeq.nl/cron/job.php?key=${{ secrets.CRON_KEY }}&source=github&jaar=$JAAR" \
-            -w "\nHTTP: %{http_code}" \
-          && echo "" || echo "Trigger mislukt (niet kritiek)"
+            -w "\nHTTP: %{http_code}" || echo "Trigger mislukt (niet kritiek)"

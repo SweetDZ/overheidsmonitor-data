@@ -1,0 +1,133 @@
+name: CBS Data Sync
+
+# Draait elke maandag om 04:00 UTC
+# Je kunt ook handmatig triggeren via GitHub → Actions → Run workflow
+on:
+  schedule:
+    - cron: '0 4 * * 1'
+  workflow_dispatch:
+    inputs:
+      jaar:
+        description: 'Jaar om te importeren (bijv. 2023)'
+        required: false
+        default: 'auto'
+
+jobs:
+  sync-cbs-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Bepaal import jaar
+        id: jaar
+        run: |
+          INPUT="${{ github.event.inputs.jaar }}"
+          if [ "$INPUT" = "auto" ] || [ -z "$INPUT" ]; then
+            MONTH=$(date +%m)
+            YEAR=$(date +%Y)
+            if [ "$MONTH" -ge 9 ]; then
+              JAAR=$((YEAR - 1))
+            else
+              JAAR=$((YEAR - 2))
+            fi
+          else
+            JAAR=$INPUT
+          fi
+          echo "jaar=$JAAR" >> $GITHUB_OUTPUT
+          echo "Importeer jaar: $JAAR"
+
+      - name: Haal CBS data op (37221ned - Woningbouw)
+        run: |
+          JAAR="${{ steps.jaar.outputs.jaar }}"
+          PERIODE="${JAAR}JJ00"
+          
+          echo "Ophalen: woningbouwproductie $JAAR..."
+          
+          # Probeer OData v3
+          curl -s \
+            "https://opendata.cbs.nl/ODataApi/OData/37221ned/UntypedDataSet?\$filter=startswith(RegioS,'GM')%20and%20Perioden%20eq%20'${PERIODE}'&\$select=RegioS,Perioden,NieuwbouwToegevoegdAanDeVoorraad_8,OnttrokkenAanDeVoorraad_9,SaldoNieuwbouwOnttrekking_10,Koopwoningen_6,SocialeHuurwoningen_5,ParticuliereHuurwoningen_4&\$top=500" \
+            -H "Accept: application/json" \
+            -o data/cbs_nieuwbouw_${JAAR}.json \
+            -w "HTTP: %{http_code}\n"
+          
+          # Valideer output
+          if [ -f "data/cbs_nieuwbouw_${JAAR}.json" ]; then
+            SIZE=$(wc -c < data/cbs_nieuwbouw_${JAAR}.json)
+            echo "Bestandsgrootte: $SIZE bytes"
+            if [ $SIZE -gt 1000 ]; then
+              echo "✅ Nieuwbouwdata opgehaald"
+              head -c 200 data/cbs_nieuwbouw_${JAAR}.json
+            else
+              echo "⚠️ Bestand te klein, mogelijk leeg"
+              cat data/cbs_nieuwbouw_${JAAR}.json
+            fi
+          fi
+
+      - name: Haal CBS gemeenten op
+        run: |
+          echo "Ophalen: gemeentenlijst..."
+          curl -s \
+            "https://opendata.cbs.nl/ODataApi/OData/37221ned/RegioS?\$filter=startswith(Key,'GM')&\$select=Key,Title&\$top=500" \
+            -H "Accept: application/json" \
+            -o data/cbs_gemeenten.json \
+            -w "HTTP: %{http_code}\n"
+          
+          SIZE=$(wc -c < data/cbs_gemeenten.json 2>/dev/null || echo 0)
+          echo "Gemeenten bestand: $SIZE bytes"
+
+      - name: Haal CBS vergunningen op (81955NED)
+        run: |
+          JAAR="${{ steps.jaar.outputs.jaar }}"
+          PERIODE="${JAAR}JJ00"
+          
+          echo "Ophalen: vergunningsdata $JAAR..."
+          curl -s \
+            "https://opendata.cbs.nl/ODataApi/OData/81955NED/UntypedDataSet?\$filter=startswith(RegioS,'GM')%20and%20Perioden%20eq%20'${PERIODE}'&\$select=RegioS,VerleendeVergunningen_1,GeweigerdAanvragen_2&\$top=500" \
+            -H "Accept: application/json" \
+            -o data/cbs_vergunningen_${JAAR}.json \
+            -w "HTTP: %{http_code}\n"
+
+      - name: Maak manifest aan
+        run: |
+          JAAR="${{ steps.jaar.outputs.jaar }}"
+          cat > data/manifest.json << EOF
+          {
+            "last_updated": "$(date -u +%Y-%m-%dT%H:%M:%SZ)",
+            "jaar": $JAAR,
+            "bestanden": {
+              "nieuwbouw": "cbs_nieuwbouw_${JAAR}.json",
+              "vergunningen": "cbs_vergunningen_${JAAR}.json",
+              "gemeenten": "cbs_gemeenten.json"
+            },
+            "bron": "CBS StatLine OData v3",
+            "licentie": "CC-BY 4.0"
+          }
+          EOF
+          cat data/manifest.json
+
+      - name: Commit en push data naar repo
+        run: |
+          git config user.name  "CBS Data Bot"
+          git config user.email "sweetdz@users.noreply.github.com"
+          git add data/
+          
+          if git diff --staged --quiet; then
+            echo "Geen wijzigingen — data al actueel"
+          else
+            JAAR="${{ steps.jaar.outputs.jaar }}"
+            git commit -m "CBS data update: jaar $JAAR ($(date +%Y-%m-%d))"
+            git push
+            echo "✅ Data gecached in repository"
+          fi
+
+      - name: Notificeer hollandeq.nl om data in te laden
+        if: success()
+        run: |
+          # GitHub (github.com/SweetDZ/overheidsmonitor-data) haalt CBS op
+          # en triggert daarna hollandeq.nl om de nieuwe JSON in te laden
+          curl -s \
+            "https://hollandeq.nl/cron/job.php?key=${{ secrets.CRON_KEY }}&source=github&jaar=${{ steps.jaar.outputs.jaar }}" \
+            -w "\nHTTP: %{http_code}" \
+            || echo "Trigger mislukt (niet kritiek — data staat al in github.com/SweetDZ/overheidsmonitor-data)"

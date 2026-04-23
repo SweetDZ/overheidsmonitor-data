@@ -96,7 +96,7 @@ jobs:
             -H "Accept: application/json" \
             --user-agent "OverheidsmonitorNL/1.0" \
             --output "$OUTPUT" \
-            "https://opendata.cbs.nl/ODataApi/OData/81955NED/UntypedDataSet?\$filter=startswith(RegioS,'GM')%20and%20Perioden%20eq%20'${PERIODE}'&\$select=RegioS,Perioden,VerleendeVergunningen_1,GeweigerdAanvragen_2&\$top=500")
+            "https://opendata.cbs.nl/ODataApi/OData/81955NED/UntypedDataSet?\$filter=startswith(RegioS,'GM')%20and%20Perioden%20eq%20'${PERIODE}'&\$top=500")
 
           SIZE=$(stat -c%s "$OUTPUT" 2>/dev/null || echo 0)
           echo "HTTP $HTTP — $SIZE bytes"

@@ -1,0 +1,1005 @@
+{
+  "odata.metadata":"https://opendata.cbs.nl/ODataFeed/OData/81955NED/$metadata#Cbs.OData.WebAPI.UntypedDataSet","value":[
+    {
+      "ID":13102,"Gebruiksfunctie":"T001419","RegioS":"GM1680","Perioden":"2024JJ00","BeginstandVoorraad_1":"   13939","Nieuwbouw_2":"     101","OverigeToevoeging_3":"      40","Sloop_4":"      27","OverigeOnttrekking_5":"      42","Correctie_6":"      52","SaldoVoorraad_7":"     124","EindstandVoorraad_8":"   14063"
+    },{
+      "ID":13328,"Gebruiksfunctie":"T001419","RegioS":"GM0738","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":13554,"Gebruiksfunctie":"T001419","RegioS":"GM0358","Perioden":"2024JJ00","BeginstandVoorraad_1":"   16179","Nieuwbouw_2":"      71","OverigeToevoeging_3":"      15","Sloop_4":"      13","OverigeOnttrekking_5":"      12","Correctie_6":"      -2","SaldoVoorraad_7":"      59","EindstandVoorraad_8":"   16238"
+    },{
+      "ID":13780,"Gebruiksfunctie":"T001419","RegioS":"GM0197","Perioden":"2024JJ00","BeginstandVoorraad_1":"   13696","Nieuwbouw_2":"     136","OverigeToevoeging_3":"      63","Sloop_4":"      37","OverigeOnttrekking_5":"      23","Correctie_6":"       1","SaldoVoorraad_7":"     140","EindstandVoorraad_8":"   13836"
+    },{
+      "ID":14006,"Gebruiksfunctie":"T001419","RegioS":"GM0059","Perioden":"2024JJ00","BeginstandVoorraad_1":"   13768","Nieuwbouw_2":"      88","OverigeToevoeging_3":"      25","Sloop_4":"      39","OverigeOnttrekking_5":"       6","Correctie_6":"       2","SaldoVoorraad_7":"      70","EindstandVoorraad_8":"   13838"
+    },{
+      "ID":14232,"Gebruiksfunctie":"T001419","RegioS":"GM0482","Perioden":"2024JJ00","BeginstandVoorraad_1":"    9800","Nieuwbouw_2":"      13","OverigeToevoeging_3":"      35","Sloop_4":"       2","OverigeOnttrekking_5":"       7","Correctie_6":"      -1","SaldoVoorraad_7":"      38","EindstandVoorraad_8":"    9838"
+    },{
+      "ID":14458,"Gebruiksfunctie":"T001419","RegioS":"GM0613","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11854","Nieuwbouw_2":"      75","OverigeToevoeging_3":"      17","Sloop_4":"      41","OverigeOnttrekking_5":"      12","Correctie_6":"       0","SaldoVoorraad_7":"      39","EindstandVoorraad_8":"   11893"
+    },{
+      "ID":14684,"Gebruiksfunctie":"T001419","RegioS":"GM0361","Perioden":"2024JJ00","BeginstandVoorraad_1":"   61997","Nieuwbouw_2":"     863","OverigeToevoeging_3":"     426","Sloop_4":"     126","OverigeOnttrekking_5":"     147","Correctie_6":"      20","SaldoVoorraad_7":"    1036","EindstandVoorraad_8":"   63033"
+    },{
+      "ID":14910,"Gebruiksfunctie":"T001419","RegioS":"GM0141","Perioden":"2024JJ00","BeginstandVoorraad_1":"   39229","Nieuwbouw_2":"     252","OverigeToevoeging_3":"     113","Sloop_4":"      40","OverigeOnttrekking_5":"      26","Correctie_6":"      11","SaldoVoorraad_7":"     310","EindstandVoorraad_8":"   39539"
+    },{
+      "ID":15136,"Gebruiksfunctie":"T001419","RegioS":"GM0034","Perioden":"2024JJ00","BeginstandVoorraad_1":"   99641","Nieuwbouw_2":"    1636","OverigeToevoeging_3":"     172","Sloop_4":"      15","OverigeOnttrekking_5":"      45","Correctie_6":"       1","SaldoVoorraad_7":"    1749","EindstandVoorraad_8":"  101390"
+    },{
+      "ID":15362,"Gebruiksfunctie":"T001419","RegioS":"GM0484","Perioden":"2024JJ00","BeginstandVoorraad_1":"   57572","Nieuwbouw_2":"     405","OverigeToevoeging_3":"     183","Sloop_4":"     120","OverigeOnttrekking_5":"      71","Correctie_6":"       3","SaldoVoorraad_7":"     400","EindstandVoorraad_8":"   57972"
+    },{
+      "ID":15588,"Gebruiksfunctie":"T001419","RegioS":"GM1723","Perioden":"2024JJ00","BeginstandVoorraad_1":"    5377","Nieuwbouw_2":"      41","OverigeToevoeging_3":"      11","Sloop_4":"      12","OverigeOnttrekking_5":"      12","Correctie_6":"       1","SaldoVoorraad_7":"      29","EindstandVoorraad_8":"    5406"
+    },{
+      "ID":15814,"Gebruiksfunctie":"T001419","RegioS":"GM1959","Perioden":"2024JJ00","BeginstandVoorraad_1":"   26550","Nieuwbouw_2":"     320","OverigeToevoeging_3":"     109","Sloop_4":"      40","OverigeOnttrekking_5":"      24","Correctie_6":"     105","SaldoVoorraad_7":"     470","EindstandVoorraad_8":"   27020"
+    },{
+      "ID":16040,"Gebruiksfunctie":"T001419","RegioS":"GM0060","Perioden":"2024JJ00","BeginstandVoorraad_1":"    4276","Nieuwbouw_2":"      23","OverigeToevoeging_3":"      13","Sloop_4":"      10","OverigeOnttrekking_5":"       2","Correctie_6":"      -1","SaldoVoorraad_7":"      23","EindstandVoorraad_8":"    4299"
+    },{
+      "ID":16266,"Gebruiksfunctie":"T001419","RegioS":"GM0307","Perioden":"2024JJ00","BeginstandVoorraad_1":"   81682","Nieuwbouw_2":"     915","OverigeToevoeging_3":"     279","Sloop_4":"      50","OverigeOnttrekking_5":"     135","Correctie_6":"     -49","SaldoVoorraad_7":"     960","EindstandVoorraad_8":"   82642"
+    },{
+      "ID":16492,"Gebruiksfunctie":"T001419","RegioS":"GM0362","Perioden":"2024JJ00","BeginstandVoorraad_1":"   49944","Nieuwbouw_2":"     702","OverigeToevoeging_3":"      54","Sloop_4":"      23","OverigeOnttrekking_5":"      28","Correctie_6":"       2","SaldoVoorraad_7":"     707","EindstandVoorraad_8":"   50651"
+    },{
+      "ID":16718,"Gebruiksfunctie":"T001419","RegioS":"GM0363","Perioden":"2024JJ00","BeginstandVoorraad_1":"  532074","Nieuwbouw_2":"    6082","OverigeToevoeging_3":"    1666","Sloop_4":"     672","OverigeOnttrekking_5":"     977","Correctie_6":"     -31","SaldoVoorraad_7":"    6068","EindstandVoorraad_8":"  538142"
+    },{
+      "ID":16944,"Gebruiksfunctie":"T001419","RegioS":"GM0200","Perioden":"2024JJ00","BeginstandVoorraad_1":"   86135","Nieuwbouw_2":"     426","OverigeToevoeging_3":"     595","Sloop_4":"     123","OverigeOnttrekking_5":"     125","Correctie_6":"      23","SaldoVoorraad_7":"     796","EindstandVoorraad_8":"   86931"
+    },{
+      "ID":17170,"Gebruiksfunctie":"T001419","RegioS":"GM0003","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":17396,"Gebruiksfunctie":"T001419","RegioS":"GM0202","Perioden":"2024JJ00","BeginstandVoorraad_1":"   88944","Nieuwbouw_2":"    1045","OverigeToevoeging_3":"     255","Sloop_4":"      76","OverigeOnttrekking_5":"     121","Correctie_6":"       9","SaldoVoorraad_7":"    1112","EindstandVoorraad_8":"   90056"
+    },{
+      "ID":17622,"Gebruiksfunctie":"T001419","RegioS":"GM0106","Perioden":"2024JJ00","BeginstandVoorraad_1":"   37376","Nieuwbouw_2":"     349","OverigeToevoeging_3":"      48","Sloop_4":"     145","OverigeOnttrekking_5":"      28","Correctie_6":"       1","SaldoVoorraad_7":"     225","EindstandVoorraad_8":"   37601"
+    },{
+      "ID":17848,"Gebruiksfunctie":"T001419","RegioS":"GM0743","Perioden":"2024JJ00","BeginstandVoorraad_1":"    8445","Nieuwbouw_2":"      98","OverigeToevoeging_3":"      41","Sloop_4":"      11","OverigeOnttrekking_5":"      17","Correctie_6":"      -2","SaldoVoorraad_7":"     109","EindstandVoorraad_8":"    8554"
+    },{
+      "ID":18074,"Gebruiksfunctie":"T001419","RegioS":"GM0744","Perioden":"2024JJ00","BeginstandVoorraad_1":"    4597","Nieuwbouw_2":"      39","OverigeToevoeging_3":"      55","Sloop_4":"       7","OverigeOnttrekking_5":"       9","Correctie_6":"       2","SaldoVoorraad_7":"      80","EindstandVoorraad_8":"    4677"
+    },{
+      "ID":18300,"Gebruiksfunctie":"T001419","RegioS":"GM0308","Perioden":"2024JJ00","BeginstandVoorraad_1":"   13900","Nieuwbouw_2":"      16","OverigeToevoeging_3":"      32","Sloop_4":"      13","OverigeOnttrekking_5":"      19","Correctie_6":"       0","SaldoVoorraad_7":"      16","EindstandVoorraad_8":"   13916"
+    },{
+      "ID":18526,"Gebruiksfunctie":"T001419","RegioS":"GM0489","Perioden":"2024JJ00","BeginstandVoorraad_1":"   22783","Nieuwbouw_2":"      48","OverigeToevoeging_3":"      11","Sloop_4":"      89","OverigeOnttrekking_5":"       9","Correctie_6":"      -1","SaldoVoorraad_7":"     -40","EindstandVoorraad_8":"   22743"
+    },{
+      "ID":18752,"Gebruiksfunctie":"T001419","RegioS":"GM0203","Perioden":"2024JJ00","BeginstandVoorraad_1":"   31113","Nieuwbouw_2":"     427","OverigeToevoeging_3":"     197","Sloop_4":"     105","OverigeOnttrekking_5":"      26","Correctie_6":"      86","SaldoVoorraad_7":"     579","EindstandVoorraad_8":"   31692"
+    },{
+      "ID":18978,"Gebruiksfunctie":"T001419","RegioS":"GM0005","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":19204,"Gebruiksfunctie":"T001419","RegioS":"GM0888","Perioden":"2024JJ00","BeginstandVoorraad_1":"    8874","Nieuwbouw_2":"      28","OverigeToevoeging_3":"       3","Sloop_4":"      10","OverigeOnttrekking_5":"       4","Correctie_6":"       0","SaldoVoorraad_7":"      17","EindstandVoorraad_8":"    8891"
+    },{
+      "ID":19430,"Gebruiksfunctie":"T001419","RegioS":"GM1954","Perioden":"2024JJ00","BeginstandVoorraad_1":"   18390","Nieuwbouw_2":"     180","OverigeToevoeging_3":"      36","Sloop_4":"     105","OverigeOnttrekking_5":"      30","Correctie_6":"       7","SaldoVoorraad_7":"      88","EindstandVoorraad_8":"   18478"
+    },{
+      "ID":19656,"Gebruiksfunctie":"T001419","RegioS":"GM0370","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":19882,"Gebruiksfunctie":"T001419","RegioS":"GM0889","Perioden":"2024JJ00","BeginstandVoorraad_1":"    7302","Nieuwbouw_2":"     126","OverigeToevoeging_3":"      12","Sloop_4":"       4","OverigeOnttrekking_5":"       8","Correctie_6":"      -1","SaldoVoorraad_7":"     125","EindstandVoorraad_8":"    7427"
+    },{
+      "ID":20108,"Gebruiksfunctie":"T001419","RegioS":"GM0007","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":20334,"Gebruiksfunctie":"T001419","RegioS":"GM1945","Perioden":"2024JJ00","BeginstandVoorraad_1":"   17913","Nieuwbouw_2":"     119","OverigeToevoeging_3":"      13","Sloop_4":"      15","OverigeOnttrekking_5":"      12","Correctie_6":"      -3","SaldoVoorraad_7":"     102","EindstandVoorraad_8":"   18015"
+    },{
+      "ID":20560,"Gebruiksfunctie":"T001419","RegioS":"GM0491","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":20786,"Gebruiksfunctie":"T001419","RegioS":"GM1724","Perioden":"2024JJ00","BeginstandVoorraad_1":"   10137","Nieuwbouw_2":"     103","OverigeToevoeging_3":"      20","Sloop_4":"      16","OverigeOnttrekking_5":"       9","Correctie_6":"       1","SaldoVoorraad_7":"      99","EindstandVoorraad_8":"   10236"
+    },{
+      "ID":21012,"Gebruiksfunctie":"T001419","RegioS":"GM0893","Perioden":"2024JJ00","BeginstandVoorraad_1":"    6427","Nieuwbouw_2":"      27","OverigeToevoeging_3":"      12","Sloop_4":"       6","OverigeOnttrekking_5":"       4","Correctie_6":"       1","SaldoVoorraad_7":"      30","EindstandVoorraad_8":"    6457"
+    },{
+      "ID":21238,"Gebruiksfunctie":"T001419","RegioS":"GM0373","Perioden":"2024JJ00","BeginstandVoorraad_1":"   20905","Nieuwbouw_2":"      66","OverigeToevoeging_3":"      84","Sloop_4":"      37","OverigeOnttrekking_5":"      60","Correctie_6":"       7","SaldoVoorraad_7":"      60","EindstandVoorraad_8":"   20965"
+    },{
+      "ID":21464,"Gebruiksfunctie":"T001419","RegioS":"GM0748","Perioden":"2024JJ00","BeginstandVoorraad_1":"   38585","Nieuwbouw_2":"     229","OverigeToevoeging_3":"      28","Sloop_4":"     288","OverigeOnttrekking_5":"      16","Correctie_6":"       0","SaldoVoorraad_7":"     -47","EindstandVoorraad_8":"   38538"
+    },{
+      "ID":21690,"Gebruiksfunctie":"T001419","RegioS":"GM1859","Perioden":"2024JJ00","BeginstandVoorraad_1":"   22891","Nieuwbouw_2":"     171","OverigeToevoeging_3":"      60","Sloop_4":"      42","OverigeOnttrekking_5":"      38","Correctie_6":"       1","SaldoVoorraad_7":"     152","EindstandVoorraad_8":"   23043"
+    },{
+      "ID":21916,"Gebruiksfunctie":"T001419","RegioS":"GM1721","Perioden":"2024JJ00","BeginstandVoorraad_1":"   14428","Nieuwbouw_2":"     258","OverigeToevoeging_3":"      98","Sloop_4":"      31","OverigeOnttrekking_5":"      71","Correctie_6":"      -6","SaldoVoorraad_7":"     248","EindstandVoorraad_8":"   14676"
+    },{
+      "ID":22142,"Gebruiksfunctie":"T001419","RegioS":"GM0568","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":22368,"Gebruiksfunctie":"T001419","RegioS":"GM0753","Perioden":"2024JJ00","BeginstandVoorraad_1":"   15218","Nieuwbouw_2":"     211","OverigeToevoeging_3":"      12","Sloop_4":"      19","OverigeOnttrekking_5":"      10","Correctie_6":"       8","SaldoVoorraad_7":"     202","EindstandVoorraad_8":"   15420"
+    },{
+      "ID":22594,"Gebruiksfunctie":"T001419","RegioS":"GM0209","Perioden":"2024JJ00","BeginstandVoorraad_1":"   12823","Nieuwbouw_2":"      54","OverigeToevoeging_3":"      19","Sloop_4":"       9","OverigeOnttrekking_5":"       4","Correctie_6":"       1","SaldoVoorraad_7":"      61","EindstandVoorraad_8":"   12884"
+    },{
+      "ID":22820,"Gebruiksfunctie":"T001419","RegioS":"GM0375","Perioden":"2024JJ00","BeginstandVoorraad_1":"   23409","Nieuwbouw_2":"     150","OverigeToevoeging_3":"      37","Sloop_4":"      21","OverigeOnttrekking_5":"      23","Correctie_6":"       1","SaldoVoorraad_7":"     144","EindstandVoorraad_8":"   23553"
+    },{
+      "ID":23046,"Gebruiksfunctie":"T001419","RegioS":"GM0063","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":23272,"Gebruiksfunctie":"T001419","RegioS":"GM0310","Perioden":"2024JJ00","BeginstandVoorraad_1":"   23061","Nieuwbouw_2":"     164","OverigeToevoeging_3":"      46","Sloop_4":"       9","OverigeOnttrekking_5":"      15","Correctie_6":"       0","SaldoVoorraad_7":"     186","EindstandVoorraad_8":"   23247"
+    },{
+      "ID":23498,"Gebruiksfunctie":"T001419","RegioS":"GM0585","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":23724,"Gebruiksfunctie":"T001419","RegioS":"GM1728","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11254","Nieuwbouw_2":"      37","OverigeToevoeging_3":"      41","Sloop_4":"       8","OverigeOnttrekking_5":"      16","Correctie_6":"       3","SaldoVoorraad_7":"      57","EindstandVoorraad_8":"   11311"
+    },{
+      "ID":23950,"Gebruiksfunctie":"T001419","RegioS":"GM0376","Perioden":"2024JJ00","BeginstandVoorraad_1":"    6269","Nieuwbouw_2":"       5","OverigeToevoeging_3":"      19","Sloop_4":"       8","OverigeOnttrekking_5":"       8","Correctie_6":"       0","SaldoVoorraad_7":"       8","EindstandVoorraad_8":"    6277"
+    },{
+      "ID":24176,"Gebruiksfunctie":"T001419","RegioS":"GM0377","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11484","Nieuwbouw_2":"      15","OverigeToevoeging_3":"       9","Sloop_4":"       3","OverigeOnttrekking_5":"       9","Correctie_6":"       1","SaldoVoorraad_7":"      13","EindstandVoorraad_8":"   11497"
+    },{
+      "ID":24402,"Gebruiksfunctie":"T001419","RegioS":"GM0055","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":24628,"Gebruiksfunctie":"T001419","RegioS":"GM1901","Perioden":"2024JJ00","BeginstandVoorraad_1":"   18099","Nieuwbouw_2":"      89","OverigeToevoeging_3":"      26","Sloop_4":"      66","OverigeOnttrekking_5":"      10","Correctie_6":"       4","SaldoVoorraad_7":"      43","EindstandVoorraad_8":"   18142"
+    },{
+      "ID":24854,"Gebruiksfunctie":"T001419","RegioS":"GM0755","Perioden":"2024JJ00","BeginstandVoorraad_1":"    5186","Nieuwbouw_2":"      76","OverigeToevoeging_3":"      11","Sloop_4":"      19","OverigeOnttrekking_5":"      26","Correctie_6":"       2","SaldoVoorraad_7":"      44","EindstandVoorraad_8":"    5230"
+    },{
+      "ID":25080,"Gebruiksfunctie":"T001419","RegioS":"GM0009","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":25306,"Gebruiksfunctie":"T001419","RegioS":"GM1681","Perioden":"2024JJ00","BeginstandVoorraad_1":"   13373","Nieuwbouw_2":"     142","OverigeToevoeging_3":"      28","Sloop_4":"      32","OverigeOnttrekking_5":"      16","Correctie_6":"      10","SaldoVoorraad_7":"     132","EindstandVoorraad_8":"   13505"
+    },{
+      "ID":25532,"Gebruiksfunctie":"T001419","RegioS":"GM0147","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11639","Nieuwbouw_2":"      71","OverigeToevoeging_3":"       3","Sloop_4":"       4","OverigeOnttrekking_5":"       3","Correctie_6":"       1","SaldoVoorraad_7":"      68","EindstandVoorraad_8":"   11707"
+    },{
+      "ID":25758,"Gebruiksfunctie":"T001419","RegioS":"GM0654","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11945","Nieuwbouw_2":"      53","OverigeToevoeging_3":"      22","Sloop_4":"      18","OverigeOnttrekking_5":"       9","Correctie_6":"       2","SaldoVoorraad_7":"      50","EindstandVoorraad_8":"   11995"
+    },{
+      "ID":25984,"Gebruiksfunctie":"T001419","RegioS":"GM0499","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":26210,"Gebruiksfunctie":"T001419","RegioS":"GM0756","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":26436,"Gebruiksfunctie":"T001419","RegioS":"GM0757","Perioden":"2024JJ00","BeginstandVoorraad_1":"   16432","Nieuwbouw_2":"     200","OverigeToevoeging_3":"      53","Sloop_4":"       6","OverigeOnttrekking_5":"      16","Correctie_6":"       0","SaldoVoorraad_7":"     231","EindstandVoorraad_8":"   16663"
+    },{
+      "ID":26662,"Gebruiksfunctie":"T001419","RegioS":"GM0758","Perioden":"2024JJ00","BeginstandVoorraad_1":"  103266","Nieuwbouw_2":"     321","OverigeToevoeging_3":"     214","Sloop_4":"      49","OverigeOnttrekking_5":"      99","Correctie_6":"     -30","SaldoVoorraad_7":"     357","EindstandVoorraad_8":"  103623"
+    },{
+      "ID":26888,"Gebruiksfunctie":"T001419","RegioS":"GM0501","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":27114,"Gebruiksfunctie":"T001419","RegioS":"GM1876","Perioden":"2024JJ00","BeginstandVoorraad_1":"   18775","Nieuwbouw_2":"      67","OverigeToevoeging_3":"      46","Sloop_4":"      27","OverigeOnttrekking_5":"      24","Correctie_6":"      -9","SaldoVoorraad_7":"      53","EindstandVoorraad_8":"   18828"
+    },{
+      "ID":27340,"Gebruiksfunctie":"T001419","RegioS":"GM0213","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11489","Nieuwbouw_2":"      70","OverigeToevoeging_3":"       7","Sloop_4":"       9","OverigeOnttrekking_5":"       4","Correctie_6":"       1","SaldoVoorraad_7":"      65","EindstandVoorraad_8":"   11554"
+    },{
+      "ID":27566,"Gebruiksfunctie":"T001419","RegioS":"GM0899","Perioden":"2024JJ00","BeginstandVoorraad_1":"   16260","Nieuwbouw_2":"     149","OverigeToevoeging_3":"      32","Sloop_4":"      29","OverigeOnttrekking_5":"       8","Correctie_6":"       0","SaldoVoorraad_7":"     144","EindstandVoorraad_8":"   16404"
+    },{
+      "ID":27792,"Gebruiksfunctie":"T001419","RegioS":"GM0312","Perioden":"2024JJ00","BeginstandVoorraad_1":"    7799","Nieuwbouw_2":"      85","OverigeToevoeging_3":"       5","Sloop_4":"       2","OverigeOnttrekking_5":"       1","Correctie_6":"       0","SaldoVoorraad_7":"      87","EindstandVoorraad_8":"    7886"
+    },{
+      "ID":28018,"Gebruiksfunctie":"T001419","RegioS":"GM0313","Perioden":"2024JJ00","BeginstandVoorraad_1":"   10469","Nieuwbouw_2":"      55","OverigeToevoeging_3":"      21","Sloop_4":"      14","OverigeOnttrekking_5":"       4","Correctie_6":"       0","SaldoVoorraad_7":"      58","EindstandVoorraad_8":"   10527"
+    },{
+      "ID":28244,"Gebruiksfunctie":"T001419","RegioS":"GM0214","Perioden":"2024JJ00","BeginstandVoorraad_1":"   12677","Nieuwbouw_2":"     107","OverigeToevoeging_3":"      19","Sloop_4":"       3","OverigeOnttrekking_5":"       4","Correctie_6":"       1","SaldoVoorraad_7":"     120","EindstandVoorraad_8":"   12797"
+    },{
+      "ID":28470,"Gebruiksfunctie":"T001419","RegioS":"GM0381","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":28696,"Gebruiksfunctie":"T001419","RegioS":"GM0502","Perioden":"2024JJ00","BeginstandVoorraad_1":"   35023","Nieuwbouw_2":"     312","OverigeToevoeging_3":"      77","Sloop_4":"      52","OverigeOnttrekking_5":"      16","Correctie_6":"       1","SaldoVoorraad_7":"     322","EindstandVoorraad_8":"   35346"
+    },{
+      "ID":28922,"Gebruiksfunctie":"T001419","RegioS":"GM0383","Perioden":"2024JJ00","BeginstandVoorraad_1":"   19152","Nieuwbouw_2":"     137","OverigeToevoeging_3":"      23","Sloop_4":"      28","OverigeOnttrekking_5":"      17","Correctie_6":"       2","SaldoVoorraad_7":"     117","EindstandVoorraad_8":"   19269"
+    },{
+      "ID":29148,"Gebruiksfunctie":"T001419","RegioS":"GM0109","Perioden":"2024JJ00","BeginstandVoorraad_1":"   19476","Nieuwbouw_2":"      93","OverigeToevoeging_3":"     127","Sloop_4":"      28","OverigeOnttrekking_5":"     130","Correctie_6":"     -92","SaldoVoorraad_7":"     -30","EindstandVoorraad_8":"   19446"
+    },{
+      "ID":29374,"Gebruiksfunctie":"T001419","RegioS":"GM1706","Perioden":"2024JJ00","BeginstandVoorraad_1":"   10650","Nieuwbouw_2":"      47","OverigeToevoeging_3":"       8","Sloop_4":"      15","OverigeOnttrekking_5":"       9","Correctie_6":"     -19","SaldoVoorraad_7":"      12","EindstandVoorraad_8":"   10662"
+    },{
+      "ID":29600,"Gebruiksfunctie":"T001419","RegioS":"GM0611","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":29826,"Gebruiksfunctie":"T001419","RegioS":"GM1684","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":30052,"Gebruiksfunctie":"T001419","RegioS":"GM0216","Perioden":"2024JJ00","BeginstandVoorraad_1":"   14914","Nieuwbouw_2":"      75","OverigeToevoeging_3":"      93","Sloop_4":"       5","OverigeOnttrekking_5":"      30","Correctie_6":"       2","SaldoVoorraad_7":"     135","EindstandVoorraad_8":"   15049"
+    },{
+      "ID":30278,"Gebruiksfunctie":"T001419","RegioS":"GM0148","Perioden":"2024JJ00","BeginstandVoorraad_1":"   14182","Nieuwbouw_2":"     185","OverigeToevoeging_3":"      55","Sloop_4":"      28","OverigeOnttrekking_5":"      22","Correctie_6":"      17","SaldoVoorraad_7":"     207","EindstandVoorraad_8":"   14389"
+    },{
+      "ID":30504,"Gebruiksfunctie":"T001419","RegioS":"GM1891","Perioden":"2024JJ00","BeginstandVoorraad_1":"    9095","Nieuwbouw_2":"      69","OverigeToevoeging_3":"      19","Sloop_4":"       5","OverigeOnttrekking_5":"      14","Correctie_6":"       0","SaldoVoorraad_7":"      69","EindstandVoorraad_8":"    9164"
+    },{
+      "ID":30730,"Gebruiksfunctie":"T001419","RegioS":"GM0503","Perioden":"2024JJ00","BeginstandVoorraad_1":"   58804","Nieuwbouw_2":"     350","OverigeToevoeging_3":"     188","Sloop_4":"      11","OverigeOnttrekking_5":"     102","Correctie_6":"      -5","SaldoVoorraad_7":"     420","EindstandVoorraad_8":"   59224"
+    },{
+      "ID":30956,"Gebruiksfunctie":"T001419","RegioS":"GM0010","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":31182,"Gebruiksfunctie":"T001419","RegioS":"GM0762","Perioden":"2024JJ00","BeginstandVoorraad_1":"   16072","Nieuwbouw_2":"      77","OverigeToevoeging_3":"      27","Sloop_4":"      22","OverigeOnttrekking_5":"      16","Correctie_6":"       6","SaldoVoorraad_7":"      72","EindstandVoorraad_8":"   16144"
+    },{
+      "ID":31408,"Gebruiksfunctie":"T001419","RegioS":"GM0150","Perioden":"2024JJ00","BeginstandVoorraad_1":"   53099","Nieuwbouw_2":"     559","OverigeToevoeging_3":"     322","Sloop_4":"      89","OverigeOnttrekking_5":"     103","Correctie_6":"     -10","SaldoVoorraad_7":"     679","EindstandVoorraad_8":"   53778"
+    },{
+      "ID":31634,"Gebruiksfunctie":"T001419","RegioS":"GM0384","Perioden":"2024JJ00","BeginstandVoorraad_1":"   17839","Nieuwbouw_2":"     323","OverigeToevoeging_3":"      24","Sloop_4":"       8","OverigeOnttrekking_5":"       6","Correctie_6":"       1","SaldoVoorraad_7":"     334","EindstandVoorraad_8":"   18173"
+    },{
+      "ID":31860,"Gebruiksfunctie":"T001419","RegioS":"GM1980","Perioden":"2024JJ00","BeginstandVoorraad_1":"   42775","Nieuwbouw_2":"     565","OverigeToevoeging_3":"      37","Sloop_4":"      49","OverigeOnttrekking_5":"      15","Correctie_6":"      -4","SaldoVoorraad_7":"     534","EindstandVoorraad_8":"   43309"
+    },{
+      "ID":32086,"Gebruiksfunctie":"T001419","RegioS":"GM1774","Perioden":"2024JJ00","BeginstandVoorraad_1":"   12572","Nieuwbouw_2":"     131","OverigeToevoeging_3":"      34","Sloop_4":"      26","OverigeOnttrekking_5":"      19","Correctie_6":"      -1","SaldoVoorraad_7":"     119","EindstandVoorraad_8":"   12691"
+    },{
+      "ID":32312,"Gebruiksfunctie":"T001419","RegioS":"GM0504","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":32538,"Gebruiksfunctie":"T001419","RegioS":"GM0221","Perioden":"2024JJ00","BeginstandVoorraad_1":"    5985","Nieuwbouw_2":"      22","OverigeToevoeging_3":"       8","Sloop_4":"      23","OverigeOnttrekking_5":"       6","Correctie_6":"      12","SaldoVoorraad_7":"      13","EindstandVoorraad_8":"    5998"
+    },{
+      "ID":32764,"Gebruiksfunctie":"T001419","RegioS":"GM0222","Perioden":"2024JJ00","BeginstandVoorraad_1":"   30892","Nieuwbouw_2":"     257","OverigeToevoeging_3":"      71","Sloop_4":"      15","OverigeOnttrekking_5":"      40","Correctie_6":"       2","SaldoVoorraad_7":"     275","EindstandVoorraad_8":"   31167"
+    },{
+      "ID":32990,"Gebruiksfunctie":"T001419","RegioS":"GM0766","Perioden":"2024JJ00","BeginstandVoorraad_1":"   13347","Nieuwbouw_2":"     198","OverigeToevoeging_3":"     108","Sloop_4":"       9","OverigeOnttrekking_5":"      15","Correctie_6":"       0","SaldoVoorraad_7":"     282","EindstandVoorraad_8":"   13629"
+    },{
+      "ID":33216,"Gebruiksfunctie":"T001419","RegioS":"GM0058","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":33442,"Gebruiksfunctie":"T001419","RegioS":"GM0505","Perioden":"2024JJ00","BeginstandVoorraad_1":"   66340","Nieuwbouw_2":"     376","OverigeToevoeging_3":"     193","Sloop_4":"     197","OverigeOnttrekking_5":"     156","Correctie_6":"      27","SaldoVoorraad_7":"     243","EindstandVoorraad_8":"   66583"
+    },{
+      "ID":33668,"Gebruiksfunctie":"T001419","RegioS":"GM0498","Perioden":"2024JJ00","BeginstandVoorraad_1":"    9971","Nieuwbouw_2":"      81","OverigeToevoeging_3":"      15","Sloop_4":"      14","OverigeOnttrekking_5":"      11","Correctie_6":"       2","SaldoVoorraad_7":"      73","EindstandVoorraad_8":"   10044"
+    },{
+      "ID":33894,"Gebruiksfunctie":"T001419","RegioS":"GM1719","Perioden":"2024JJ00","BeginstandVoorraad_1":"   14032","Nieuwbouw_2":"      42","OverigeToevoeging_3":"      59","Sloop_4":"      11","OverigeOnttrekking_5":"      16","Correctie_6":"       0","SaldoVoorraad_7":"      74","EindstandVoorraad_8":"   14106"
+    },{
+      "ID":34120,"Gebruiksfunctie":"T001419","RegioS":"GM0303","Perioden":"2024JJ00","BeginstandVoorraad_1":"   22732","Nieuwbouw_2":"     416","OverigeToevoeging_3":"      15","Sloop_4":"      21","OverigeOnttrekking_5":"      27","Correctie_6":"       2","SaldoVoorraad_7":"     385","EindstandVoorraad_8":"   23117"
+    },{
+      "ID":34346,"Gebruiksfunctie":"T001419","RegioS":"GM0225","Perioden":"2024JJ00","BeginstandVoorraad_1":"    9314","Nieuwbouw_2":"     293","OverigeToevoeging_3":"      45","Sloop_4":"      13","OverigeOnttrekking_5":"      16","Correctie_6":"       2","SaldoVoorraad_7":"     311","EindstandVoorraad_8":"    9625"
+    },{
+      "ID":34572,"Gebruiksfunctie":"T001419","RegioS":"GM0226","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11983","Nieuwbouw_2":"      84","OverigeToevoeging_3":"      31","Sloop_4":"       2","OverigeOnttrekking_5":"       7","Correctie_6":"       2","SaldoVoorraad_7":"     108","EindstandVoorraad_8":"   12091"
+    },{
+      "ID":34798,"Gebruiksfunctie":"T001419","RegioS":"GM1711","Perioden":"2024JJ00","BeginstandVoorraad_1":"   17948","Nieuwbouw_2":"      81","OverigeToevoeging_3":"      64","Sloop_4":"      20","OverigeOnttrekking_5":"      20","Correctie_6":"       0","SaldoVoorraad_7":"     105","EindstandVoorraad_8":"   18053"
+    },{
+      "ID":35024,"Gebruiksfunctie":"T001419","RegioS":"GM0385","Perioden":"2024JJ00","BeginstandVoorraad_1":"   18662","Nieuwbouw_2":"      89","OverigeToevoeging_3":"      27","Sloop_4":"      48","OverigeOnttrekking_5":"      21","Correctie_6":"       9","SaldoVoorraad_7":"      56","EindstandVoorraad_8":"   18718"
+    },{
+      "ID":35250,"Gebruiksfunctie":"T001419","RegioS":"GM0228","Perioden":"2024JJ00","BeginstandVoorraad_1":"   60116","Nieuwbouw_2":"     594","OverigeToevoeging_3":"    1488","Sloop_4":"     312","OverigeOnttrekking_5":"     238","Correctie_6":"     159","SaldoVoorraad_7":"    1691","EindstandVoorraad_8":"   61807"
+    },{
+      "ID":35476,"Gebruiksfunctie":"T001419","RegioS":"GM0317","Perioden":"2024JJ00","BeginstandVoorraad_1":"    4927","Nieuwbouw_2":"      77","OverigeToevoeging_3":"      80","Sloop_4":"       1","OverigeOnttrekking_5":"      11","Correctie_6":"      -7","SaldoVoorraad_7":"     138","EindstandVoorraad_8":"    5065"
+    },{
+      "ID":35702,"Gebruiksfunctie":"T001419","RegioS":"GM1979","Perioden":"2024JJ00","BeginstandVoorraad_1":"   26863","Nieuwbouw_2":"     649","OverigeToevoeging_3":"      42","Sloop_4":"     735","OverigeOnttrekking_5":"      39","Correctie_6":"      10","SaldoVoorraad_7":"     -73","EindstandVoorraad_8":"   26790"
+    },{
+      "ID":35928,"Gebruiksfunctie":"T001419","RegioS":"GM1651","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":36154,"Gebruiksfunctie":"T001419","RegioS":"GM0770","Perioden":"2024JJ00","BeginstandVoorraad_1":"   10176","Nieuwbouw_2":"     168","OverigeToevoeging_3":"      15","Sloop_4":"      11","OverigeOnttrekking_5":"       9","Correctie_6":"       0","SaldoVoorraad_7":"     163","EindstandVoorraad_8":"   10339"
+    },{
+      "ID":36380,"Gebruiksfunctie":"T001419","RegioS":"GM1903","Perioden":"2024JJ00","BeginstandVoorraad_1":"   13145","Nieuwbouw_2":"      86","OverigeToevoeging_3":"     106","Sloop_4":"       2","OverigeOnttrekking_5":"      81","Correctie_6":"       3","SaldoVoorraad_7":"     112","EindstandVoorraad_8":"   13257"
+    },{
+      "ID":36606,"Gebruiksfunctie":"T001419","RegioS":"GM0772","Perioden":"2024JJ00","BeginstandVoorraad_1":"  136100","Nieuwbouw_2":"    1615","OverigeToevoeging_3":"     745","Sloop_4":"     329","OverigeOnttrekking_5":"     184","Correctie_6":"     -13","SaldoVoorraad_7":"    1834","EindstandVoorraad_8":"  137934"
+    },{
+      "ID":36832,"Gebruiksfunctie":"T001419","RegioS":"GM0230","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11659","Nieuwbouw_2":"      66","OverigeToevoeging_3":"      29","Sloop_4":"      23","OverigeOnttrekking_5":"      18","Correctie_6":"      10","SaldoVoorraad_7":"      64","EindstandVoorraad_8":"   11723"
+    },{
+      "ID":37058,"Gebruiksfunctie":"T001419","RegioS":"GM0114","Perioden":"2024JJ00","BeginstandVoorraad_1":"   58521","Nieuwbouw_2":"     350","OverigeToevoeging_3":"     121","Sloop_4":"     151","OverigeOnttrekking_5":"      32","Correctie_6":"     -14","SaldoVoorraad_7":"     274","EindstandVoorraad_8":"   58796"
+    },{
+      "ID":37284,"Gebruiksfunctie":"T001419","RegioS":"GM0388","Perioden":"2024JJ00","BeginstandVoorraad_1":"   10462","Nieuwbouw_2":"      37","OverigeToevoeging_3":"      22","Sloop_4":"       7","OverigeOnttrekking_5":"      16","Correctie_6":"       3","SaldoVoorraad_7":"      39","EindstandVoorraad_8":"   10501"
+    },{
+      "ID":37510,"Gebruiksfunctie":"T001419","RegioS":"GM0153","Perioden":"2024JJ00","BeginstandVoorraad_1":"   88435","Nieuwbouw_2":"     754","OverigeToevoeging_3":"      83","Sloop_4":"      70","OverigeOnttrekking_5":"      98","Correctie_6":"      -7","SaldoVoorraad_7":"     662","EindstandVoorraad_8":"   89097"
+    },{
+      "ID":37736,"Gebruiksfunctie":"T001419","RegioS":"GM0232","Perioden":"2024JJ00","BeginstandVoorraad_1":"   17442","Nieuwbouw_2":"     115","OverigeToevoeging_3":"      27","Sloop_4":"      35","OverigeOnttrekking_5":"      12","Correctie_6":"       0","SaldoVoorraad_7":"      95","EindstandVoorraad_8":"   17538"
+    },{
+      "ID":37962,"Gebruiksfunctie":"T001419","RegioS":"GM0233","Perioden":"2024JJ00","BeginstandVoorraad_1":"   15810","Nieuwbouw_2":"     119","OverigeToevoeging_3":"     147","Sloop_4":"      59","OverigeOnttrekking_5":"     135","Correctie_6":"       5","SaldoVoorraad_7":"      77","EindstandVoorraad_8":"   15887"
+    },{
+      "ID":38188,"Gebruiksfunctie":"T001419","RegioS":"GM0777","Perioden":"2024JJ00","BeginstandVoorraad_1":"   23091","Nieuwbouw_2":"     246","OverigeToevoeging_3":"      78","Sloop_4":"      17","OverigeOnttrekking_5":"      22","Correctie_6":"       6","SaldoVoorraad_7":"     291","EindstandVoorraad_8":"   23382"
+    },{
+      "ID":38414,"Gebruiksfunctie":"T001419","RegioS":"GM1722","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":38640,"Gebruiksfunctie":"T001419","RegioS":"GM0070","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":38866,"Gebruiksfunctie":"T001419","RegioS":"GM1921","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":39092,"Gebruiksfunctie":"T001419","RegioS":"GM1940","Perioden":"2024JJ00","BeginstandVoorraad_1":"   29490","Nieuwbouw_2":"     262","OverigeToevoeging_3":"     109","Sloop_4":"      54","OverigeOnttrekking_5":"      15","Correctie_6":"     -14","SaldoVoorraad_7":"     288","EindstandVoorraad_8":"   29778"
+    },{
+      "ID":39318,"Gebruiksfunctie":"T001419","RegioS":"GM0653","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":39544,"Gebruiksfunctie":"T001419","RegioS":"GM0779","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11598","Nieuwbouw_2":"      23","OverigeToevoeging_3":"       9","Sloop_4":"      19","OverigeOnttrekking_5":"       7","Correctie_6":"     -14","SaldoVoorraad_7":"      -8","EindstandVoorraad_8":"   11590"
+    },{
+      "ID":39770,"Gebruiksfunctie":"T001419","RegioS":"GM0236","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":39996,"Gebruiksfunctie":"T001419","RegioS":"GM1771","Perioden":"2024JJ00","BeginstandVoorraad_1":"   20992","Nieuwbouw_2":"     100","OverigeToevoeging_3":"      51","Sloop_4":"       2","OverigeOnttrekking_5":"      14","Correctie_6":"       1","SaldoVoorraad_7":"     136","EindstandVoorraad_8":"   21128"
+    },{
+      "ID":40222,"Gebruiksfunctie":"T001419","RegioS":"GM1652","Perioden":"2024JJ00","BeginstandVoorraad_1":"   14864","Nieuwbouw_2":"     212","OverigeToevoeging_3":"      27","Sloop_4":"      38","OverigeOnttrekking_5":"      22","Correctie_6":"       0","SaldoVoorraad_7":"     179","EindstandVoorraad_8":"   15043"
+    },{
+      "ID":40448,"Gebruiksfunctie":"T001419","RegioS":"GM0907","Perioden":"2024JJ00","BeginstandVoorraad_1":"    9342","Nieuwbouw_2":"      44","OverigeToevoeging_3":"      39","Sloop_4":"      18","OverigeOnttrekking_5":"      16","Correctie_6":"       5","SaldoVoorraad_7":"      54","EindstandVoorraad_8":"    9396"
+    },{
+      "ID":40674,"Gebruiksfunctie":"T001419","RegioS":"GM0689","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":40900,"Gebruiksfunctie":"T001419","RegioS":"GM0784","Perioden":"2024JJ00","BeginstandVoorraad_1":"   13840","Nieuwbouw_2":"      70","OverigeToevoeging_3":"      70","Sloop_4":"      28","OverigeOnttrekking_5":"      24","Correctie_6":"       7","SaldoVoorraad_7":"      95","EindstandVoorraad_8":"   13935"
+    },{
+      "ID":41126,"Gebruiksfunctie":"T001419","RegioS":"GM0511","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":41352,"Gebruiksfunctie":"T001419","RegioS":"GM1924","Perioden":"2024JJ00","BeginstandVoorraad_1":"   31838","Nieuwbouw_2":"     110","OverigeToevoeging_3":"     185","Sloop_4":"      27","OverigeOnttrekking_5":"     177","Correctie_6":"       0","SaldoVoorraad_7":"      91","EindstandVoorraad_8":"   31929"
+    },{
+      "ID":41578,"Gebruiksfunctie":"T001419","RegioS":"GM0664","Perioden":"2024JJ00","BeginstandVoorraad_1":"   22999","Nieuwbouw_2":"     285","OverigeToevoeging_3":"     102","Sloop_4":"     108","OverigeOnttrekking_5":"      82","Correctie_6":"       6","SaldoVoorraad_7":"     203","EindstandVoorraad_8":"   23202"
+    },{
+      "ID":41804,"Gebruiksfunctie":"T001419","RegioS":"GM0785","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11633","Nieuwbouw_2":"     146","OverigeToevoeging_3":"      32","Sloop_4":"       4","OverigeOnttrekking_5":"       7","Correctie_6":"      -2","SaldoVoorraad_7":"     165","EindstandVoorraad_8":"   11798"
+    },{
+      "ID":42030,"Gebruiksfunctie":"T001419","RegioS":"GM1942","Perioden":"2024JJ00","BeginstandVoorraad_1":"   32871","Nieuwbouw_2":"     253","OverigeToevoeging_3":"      55","Sloop_4":"      28","OverigeOnttrekking_5":"      61","Correctie_6":"       3","SaldoVoorraad_7":"     222","EindstandVoorraad_8":"   33093"
+    },{
+      "ID":42256,"Gebruiksfunctie":"T001419","RegioS":"GM0512","Perioden":"2024JJ00","BeginstandVoorraad_1":"   20187","Nieuwbouw_2":"     363","OverigeToevoeging_3":"      97","Sloop_4":"       4","OverigeOnttrekking_5":"      49","Correctie_6":"       3","SaldoVoorraad_7":"     410","EindstandVoorraad_8":"   20597"
+    },{
+      "ID":42482,"Gebruiksfunctie":"T001419","RegioS":"GM0513","Perioden":"2024JJ00","BeginstandVoorraad_1":"   38605","Nieuwbouw_2":"     779","OverigeToevoeging_3":"     126","Sloop_4":"      14","OverigeOnttrekking_5":"      90","Correctie_6":"      -4","SaldoVoorraad_7":"     797","EindstandVoorraad_8":"   39402"
+    },{
+      "ID":42708,"Gebruiksfunctie":"T001419","RegioS":"GM0693","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":42934,"Gebruiksfunctie":"T001419","RegioS":"GM0365","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":43160,"Gebruiksfunctie":"T001419","RegioS":"GM0786","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":43386,"Gebruiksfunctie":"T001419","RegioS":"GM0518","Perioden":"2024JJ00","BeginstandVoorraad_1":"  299960","Nieuwbouw_2":"    1869","OverigeToevoeging_3":"     682","Sloop_4":"     189","OverigeOnttrekking_5":"     565","Correctie_6":"      71","SaldoVoorraad_7":"    1868","EindstandVoorraad_8":"  301828"
+    },{
+      "ID":43612,"Gebruiksfunctie":"T001419","RegioS":"GM0241","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":43838,"Gebruiksfunctie":"T001419","RegioS":"GM0014","Perioden":"2024JJ00","BeginstandVoorraad_1":"  139403","Nieuwbouw_2":"     731","OverigeToevoeging_3":"     850","Sloop_4":"     570","OverigeOnttrekking_5":"     234","Correctie_6":"      40","SaldoVoorraad_7":"     817","EindstandVoorraad_8":"  140220"
+    },{
+      "ID":44064,"Gebruiksfunctie":"T001419","RegioS":"GM0015","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":44290,"Gebruiksfunctie":"T001419","RegioS":"GM1729","Perioden":"2024JJ00","BeginstandVoorraad_1":"    7969","Nieuwbouw_2":"       2","OverigeToevoeging_3":"      44","Sloop_4":"      12","OverigeOnttrekking_5":"      18","Correctie_6":"      -3","SaldoVoorraad_7":"      13","EindstandVoorraad_8":"    7982"
+    },{
+      "ID":44516,"Gebruiksfunctie":"T001419","RegioS":"GM0158","Perioden":"2024JJ00","BeginstandVoorraad_1":"   12276","Nieuwbouw_2":"      57","OverigeToevoeging_3":"      29","Sloop_4":"      27","OverigeOnttrekking_5":"      20","Correctie_6":"      -5","SaldoVoorraad_7":"      34","EindstandVoorraad_8":"   12310"
+    },{
+      "ID":44742,"Gebruiksfunctie":"T001419","RegioS":"GM0788","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":44968,"Gebruiksfunctie":"T001419","RegioS":"GM0392","Perioden":"2024JJ00","BeginstandVoorraad_1":"   90784","Nieuwbouw_2":"     924","OverigeToevoeging_3":"     351","Sloop_4":"     127","OverigeOnttrekking_5":"     127","Correctie_6":"       3","SaldoVoorraad_7":"    1024","EindstandVoorraad_8":"   91808"
+    },{
+      "ID":45194,"Gebruiksfunctie":"T001419","RegioS":"GM0393","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":45420,"Gebruiksfunctie":"T001419","RegioS":"GM0394","Perioden":"2024JJ00","BeginstandVoorraad_1":"   80426","Nieuwbouw_2":"    1090","OverigeToevoeging_3":"     115","Sloop_4":"      66","OverigeOnttrekking_5":"      47","Correctie_6":"       0","SaldoVoorraad_7":"    1092","EindstandVoorraad_8":"   81518"
+    },{
+      "ID":45646,"Gebruiksfunctie":"T001419","RegioS":"GM1655","Perioden":"2024JJ00","BeginstandVoorraad_1":"   16124","Nieuwbouw_2":"     250","OverigeToevoeging_3":"      63","Sloop_4":"      14","OverigeOnttrekking_5":"      27","Correctie_6":"       4","SaldoVoorraad_7":"     276","EindstandVoorraad_8":"   16400"
+    },{
+      "ID":45872,"Gebruiksfunctie":"T001419","RegioS":"GM0160","Perioden":"2024JJ00","BeginstandVoorraad_1":"   30539","Nieuwbouw_2":"     315","OverigeToevoeging_3":"      79","Sloop_4":"      61","OverigeOnttrekking_5":"      80","Correctie_6":"       2","SaldoVoorraad_7":"     255","EindstandVoorraad_8":"   30794"
+    },{
+      "ID":46098,"Gebruiksfunctie":"T001419","RegioS":"GM0243","Perioden":"2024JJ00","BeginstandVoorraad_1":"   25015","Nieuwbouw_2":"     225","OverigeToevoeging_3":"     131","Sloop_4":"      31","OverigeOnttrekking_5":"      33","Correctie_6":"      -3","SaldoVoorraad_7":"     289","EindstandVoorraad_8":"   25304"
+    },{
+      "ID":46324,"Gebruiksfunctie":"T001419","RegioS":"GM0523","Perioden":"2024JJ00","BeginstandVoorraad_1":"    8603","Nieuwbouw_2":"     123","OverigeToevoeging_3":"      32","Sloop_4":"      14","OverigeOnttrekking_5":"       7","Correctie_6":"       1","SaldoVoorraad_7":"     135","EindstandVoorraad_8":"    8738"
+    },{
+      "ID":46550,"Gebruiksfunctie":"T001419","RegioS":"GM0017","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":46776,"Gebruiksfunctie":"T001419","RegioS":"GM0395","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":47002,"Gebruiksfunctie":"T001419","RegioS":"GM0072","Perioden":"2024JJ00","BeginstandVoorraad_1":"    9621","Nieuwbouw_2":"     151","OverigeToevoeging_3":"      37","Sloop_4":"      43","OverigeOnttrekking_5":"      17","Correctie_6":"       0","SaldoVoorraad_7":"     128","EindstandVoorraad_8":"    9749"
+    },{
+      "ID":47228,"Gebruiksfunctie":"T001419","RegioS":"GM0244","Perioden":"2024JJ00","BeginstandVoorraad_1":"    6300","Nieuwbouw_2":"      67","OverigeToevoeging_3":"      46","Sloop_4":"       3","OverigeOnttrekking_5":"       7","Correctie_6":"       3","SaldoVoorraad_7":"     106","EindstandVoorraad_8":"    6406"
+    },{
+      "ID":47454,"Gebruiksfunctie":"T001419","RegioS":"GM0396","Perioden":"2024JJ00","BeginstandVoorraad_1":"   21001","Nieuwbouw_2":"     100","OverigeToevoeging_3":"      13","Sloop_4":"      71","OverigeOnttrekking_5":"      13","Correctie_6":"       1","SaldoVoorraad_7":"      30","EindstandVoorraad_8":"   21031"
+    },{
+      "ID":47680,"Gebruiksfunctie":"T001419","RegioS":"GM0397","Perioden":"2024JJ00","BeginstandVoorraad_1":"   14802","Nieuwbouw_2":"       6","OverigeToevoeging_3":"      25","Sloop_4":"      68","OverigeOnttrekking_5":"      21","Correctie_6":"       1","SaldoVoorraad_7":"     -57","EindstandVoorraad_8":"   14745"
+    },{
+      "ID":47906,"Gebruiksfunctie":"T001419","RegioS":"GM0246","Perioden":"2024JJ00","BeginstandVoorraad_1":"    9061","Nieuwbouw_2":"      69","OverigeToevoeging_3":"      72","Sloop_4":"      19","OverigeOnttrekking_5":"      16","Correctie_6":"      -2","SaldoVoorraad_7":"     104","EindstandVoorraad_8":"    9165"
+    },{
+      "ID":48132,"Gebruiksfunctie":"T001419","RegioS":"GM0074","Perioden":"2024JJ00","BeginstandVoorraad_1":"   28483","Nieuwbouw_2":"     369","OverigeToevoeging_3":"      46","Sloop_4":"      16","OverigeOnttrekking_5":"      25","Correctie_6":"      -1","SaldoVoorraad_7":"     373","EindstandVoorraad_8":"   28856"
+    },{
+      "ID":48358,"Gebruiksfunctie":"T001419","RegioS":"GM0398","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":48584,"Gebruiksfunctie":"T001419","RegioS":"GM0917","Perioden":"2024JJ00","BeginstandVoorraad_1":"   54183","Nieuwbouw_2":"     152","OverigeToevoeging_3":"     152","Sloop_4":"     111","OverigeOnttrekking_5":"      81","Correctie_6":"      -7","SaldoVoorraad_7":"     105","EindstandVoorraad_8":"   54288"
+    },{
+      "ID":48810,"Gebruiksfunctie":"T001419","RegioS":"GM1658","Perioden":"2024JJ00","BeginstandVoorraad_1":"    8220","Nieuwbouw_2":"      80","OverigeToevoeging_3":"      10","Sloop_4":"       2","OverigeOnttrekking_5":"       1","Correctie_6":"      -6","SaldoVoorraad_7":"      81","EindstandVoorraad_8":"    8301"
+    },{
+      "ID":49036,"Gebruiksfunctie":"T001419","RegioS":"GM0399","Perioden":"2024JJ00","BeginstandVoorraad_1":"   13000","Nieuwbouw_2":"      82","OverigeToevoeging_3":"      10","Sloop_4":"      14","OverigeOnttrekking_5":"      13","Correctie_6":"       4","SaldoVoorraad_7":"      69","EindstandVoorraad_8":"   13069"
+    },{
+      "ID":49262,"Gebruiksfunctie":"T001419","RegioS":"GM0400","Perioden":"2024JJ00","BeginstandVoorraad_1":"   35838","Nieuwbouw_2":"     111","OverigeToevoeging_3":"      28","Sloop_4":"      69","OverigeOnttrekking_5":"      14","Correctie_6":"       8","SaldoVoorraad_7":"      64","EindstandVoorraad_8":"   35902"
+    },{
+      "ID":49488,"Gebruiksfunctie":"T001419","RegioS":"GM0163","Perioden":"2024JJ00","BeginstandVoorraad_1":"   17809","Nieuwbouw_2":"      49","OverigeToevoeging_3":"      31","Sloop_4":"      19","OverigeOnttrekking_5":"      16","Correctie_6":"       9","SaldoVoorraad_7":"      54","EindstandVoorraad_8":"   17863"
+    },{
+      "ID":49714,"Gebruiksfunctie":"T001419","RegioS":"GM0530","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":49940,"Gebruiksfunctie":"T001419","RegioS":"GM0794","Perioden":"2024JJ00","BeginstandVoorraad_1":"   48790","Nieuwbouw_2":"     364","OverigeToevoeging_3":"      85","Sloop_4":"      43","OverigeOnttrekking_5":"      42","Correctie_6":"       0","SaldoVoorraad_7":"     364","EindstandVoorraad_8":"   49154"
+    },{
+      "ID":50166,"Gebruiksfunctie":"T001419","RegioS":"GM0531","Perioden":"2024JJ00","BeginstandVoorraad_1":"   14362","Nieuwbouw_2":"     121","OverigeToevoeging_3":"      15","Sloop_4":"       2","OverigeOnttrekking_5":"       7","Correctie_6":"      -6","SaldoVoorraad_7":"     121","EindstandVoorraad_8":"   14483"
+    },{
+      "ID":50392,"Gebruiksfunctie":"T001419","RegioS":"GM0164","Perioden":"2024JJ00","BeginstandVoorraad_1":"   47249","Nieuwbouw_2":"     380","OverigeToevoeging_3":"     339","Sloop_4":"     177","OverigeOnttrekking_5":"      51","Correctie_6":"      -4","SaldoVoorraad_7":"     487","EindstandVoorraad_8":"   47736"
+    },{
+      "ID":50618,"Gebruiksfunctie":"T001419","RegioS":"GM0796","Perioden":"2024JJ00","BeginstandVoorraad_1":"   86793","Nieuwbouw_2":"     799","OverigeToevoeging_3":"     375","Sloop_4":"     224","OverigeOnttrekking_5":"     125","Correctie_6":"      16","SaldoVoorraad_7":"     841","EindstandVoorraad_8":"   87634"
+    },{
+      "ID":50844,"Gebruiksfunctie":"T001419","RegioS":"GM0252","Perioden":"2024JJ00","BeginstandVoorraad_1":"    8392","Nieuwbouw_2":"      72","OverigeToevoeging_3":"      27","Sloop_4":"       8","OverigeOnttrekking_5":"       5","Correctie_6":"       9","SaldoVoorraad_7":"      95","EindstandVoorraad_8":"    8487"
+    },{
+      "ID":51070,"Gebruiksfunctie":"T001419","RegioS":"GM0797","Perioden":"2024JJ00","BeginstandVoorraad_1":"   22948","Nieuwbouw_2":"     144","OverigeToevoeging_3":"      53","Sloop_4":"      16","OverigeOnttrekking_5":"      32","Correctie_6":"       2","SaldoVoorraad_7":"     151","EindstandVoorraad_8":"   23099"
+    },{
+      "ID":51296,"Gebruiksfunctie":"T001419","RegioS":"GM0534","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11668","Nieuwbouw_2":"      55","OverigeToevoeging_3":"      44","Sloop_4":"      70","OverigeOnttrekking_5":"       6","Correctie_6":"       0","SaldoVoorraad_7":"      23","EindstandVoorraad_8":"   11691"
+    },{
+      "ID":51522,"Gebruiksfunctie":"T001419","RegioS":"GM0798","Perioden":"2024JJ00","BeginstandVoorraad_1":"    8574","Nieuwbouw_2":"      94","OverigeToevoeging_3":"      42","Sloop_4":"      18","OverigeOnttrekking_5":"      26","Correctie_6":"      -3","SaldoVoorraad_7":"      89","EindstandVoorraad_8":"    8663"
+    },{
+      "ID":51748,"Gebruiksfunctie":"T001419","RegioS":"GM0402","Perioden":"2024JJ00","BeginstandVoorraad_1":"   49613","Nieuwbouw_2":"     212","OverigeToevoeging_3":"     129","Sloop_4":"     135","OverigeOnttrekking_5":"      55","Correctie_6":"      -1","SaldoVoorraad_7":"     150","EindstandVoorraad_8":"   49763"
+    },{
+      "ID":51974,"Gebruiksfunctie":"T001419","RegioS":"GM1963","Perioden":"2024JJ00","BeginstandVoorraad_1":"   45139","Nieuwbouw_2":"     409","OverigeToevoeging_3":"     122","Sloop_4":"      32","OverigeOnttrekking_5":"      42","Correctie_6":"      80","SaldoVoorraad_7":"     537","EindstandVoorraad_8":"   45676"
+    },{
+      "ID":52200,"Gebruiksfunctie":"T001419","RegioS":"GM1735","Perioden":"2024JJ00","BeginstandVoorraad_1":"   18248","Nieuwbouw_2":"     190","OverigeToevoeging_3":"     188","Sloop_4":"      32","OverigeOnttrekking_5":"      36","Correctie_6":"      11","SaldoVoorraad_7":"     321","EindstandVoorraad_8":"   18569"
+    },{
+      "ID":52426,"Gebruiksfunctie":"T001419","RegioS":"GM1966","Perioden":"2024JJ00","BeginstandVoorraad_1":"   26040","Nieuwbouw_2":"     254","OverigeToevoeging_3":"     116","Sloop_4":"     225","OverigeOnttrekking_5":"      54","Correctie_6":"       4","SaldoVoorraad_7":"      95","EindstandVoorraad_8":"   26135"
+    },{
+      "ID":52652,"Gebruiksfunctie":"T001419","RegioS":"GM1911","Perioden":"2024JJ00","BeginstandVoorraad_1":"   25274","Nieuwbouw_2":"     460","OverigeToevoeging_3":"      37","Sloop_4":"      23","OverigeOnttrekking_5":"      15","Correctie_6":"      13","SaldoVoorraad_7":"     472","EindstandVoorraad_8":"   25746"
+    },{
+      "ID":52878,"Gebruiksfunctie":"T001419","RegioS":"GM0118","Perioden":"2024JJ00","BeginstandVoorraad_1":"   29895","Nieuwbouw_2":"      87","OverigeToevoeging_3":"      60","Sloop_4":"      16","OverigeOnttrekking_5":"      19","Correctie_6":"       3","SaldoVoorraad_7":"     115","EindstandVoorraad_8":"   30010"
+    },{
+      "ID":53104,"Gebruiksfunctie":"T001419","RegioS":"GM0018","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":53330,"Gebruiksfunctie":"T001419","RegioS":"GM0405","Perioden":"2024JJ00","BeginstandVoorraad_1":"   38156","Nieuwbouw_2":"     437","OverigeToevoeging_3":"     105","Sloop_4":"      55","OverigeOnttrekking_5":"      46","Correctie_6":"       2","SaldoVoorraad_7":"     443","EindstandVoorraad_8":"   38599"
+    },{
+      "ID":53556,"Gebruiksfunctie":"T001419","RegioS":"GM1507","Perioden":"2024JJ00","BeginstandVoorraad_1":"   22207","Nieuwbouw_2":"     455","OverigeToevoeging_3":"     177","Sloop_4":"      37","OverigeOnttrekking_5":"      71","Correctie_6":"      17","SaldoVoorraad_7":"     541","EindstandVoorraad_8":"   22748"
+    },{
+      "ID":53782,"Gebruiksfunctie":"T001419","RegioS":"GM0321","Perioden":"2024JJ00","BeginstandVoorraad_1":"   23332","Nieuwbouw_2":"     249","OverigeToevoeging_3":"      34","Sloop_4":"      11","OverigeOnttrekking_5":"      17","Correctie_6":"       0","SaldoVoorraad_7":"     255","EindstandVoorraad_8":"   23587"
+    },{
+      "ID":54008,"Gebruiksfunctie":"T001419","RegioS":"GM0406","Perioden":"2024JJ00","BeginstandVoorraad_1":"   20936","Nieuwbouw_2":"      36","OverigeToevoeging_3":"      10","Sloop_4":"      16","OverigeOnttrekking_5":"       7","Correctie_6":"      27","SaldoVoorraad_7":"      50","EindstandVoorraad_8":"   20986"
+    },{
+      "ID":54234,"Gebruiksfunctie":"T001419","RegioS":"GM0677","Perioden":"2024JJ00","BeginstandVoorraad_1":"   15493","Nieuwbouw_2":"     188","OverigeToevoeging_3":"      18","Sloop_4":"      86","OverigeOnttrekking_5":"       8","Correctie_6":"       1","SaldoVoorraad_7":"     113","EindstandVoorraad_8":"   15606"
+    },{
+      "ID":54460,"Gebruiksfunctie":"T001419","RegioS":"GM0353","Perioden":"2024JJ00","BeginstandVoorraad_1":"   15916","Nieuwbouw_2":"      61","OverigeToevoeging_3":"       3","Sloop_4":"       4","OverigeOnttrekking_5":"       5","Correctie_6":"       0","SaldoVoorraad_7":"      55","EindstandVoorraad_8":"   15971"
+    },{
+      "ID":54686,"Gebruiksfunctie":"T001419","RegioS":"GM1884","Perioden":"2024JJ00","BeginstandVoorraad_1":"   14943","Nieuwbouw_2":"     121","OverigeToevoeging_3":"      34","Sloop_4":"      31","OverigeOnttrekking_5":"      22","Correctie_6":"       0","SaldoVoorraad_7":"     102","EindstandVoorraad_8":"   15045"
+    },{
+      "ID":54912,"Gebruiksfunctie":"T001419","RegioS":"GM0166","Perioden":"2024JJ00","BeginstandVoorraad_1":"   27246","Nieuwbouw_2":"     260","OverigeToevoeging_3":"      74","Sloop_4":"      53","OverigeOnttrekking_5":"      16","Correctie_6":"       2","SaldoVoorraad_7":"     267","EindstandVoorraad_8":"   27513"
+    },{
+      "ID":55138,"Gebruiksfunctie":"T001419","RegioS":"GM0678","Perioden":"2024JJ00","BeginstandVoorraad_1":"    6763","Nieuwbouw_2":"      36","OverigeToevoeging_3":"      43","Sloop_4":"      19","OverigeOnttrekking_5":"      11","Correctie_6":"      -1","SaldoVoorraad_7":"      48","EindstandVoorraad_8":"    6811"
+    },{
+      "ID":55364,"Gebruiksfunctie":"T001419","RegioS":"GM0537","Perioden":"2024JJ00","BeginstandVoorraad_1":"   31451","Nieuwbouw_2":"     238","OverigeToevoeging_3":"      52","Sloop_4":"      15","OverigeOnttrekking_5":"      24","Correctie_6":"       0","SaldoVoorraad_7":"     251","EindstandVoorraad_8":"   31702"
+    },{
+      "ID":55590,"Gebruiksfunctie":"T001419","RegioS":"GM0928","Perioden":"2024JJ00","BeginstandVoorraad_1":"   28448","Nieuwbouw_2":"     169","OverigeToevoeging_3":"      47","Sloop_4":"     119","OverigeOnttrekking_5":"      32","Correctie_6":"       0","SaldoVoorraad_7":"      65","EindstandVoorraad_8":"   28513"
+    },{
+      "ID":55816,"Gebruiksfunctie":"T001419","RegioS":"GM1598","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11144","Nieuwbouw_2":"     260","OverigeToevoeging_3":"     110","Sloop_4":"      11","OverigeOnttrekking_5":"      92","Correctie_6":"     168","SaldoVoorraad_7":"     435","EindstandVoorraad_8":"   11579"
+    },{
+      "ID":56042,"Gebruiksfunctie":"T001419","RegioS":"GM0079","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":56268,"Gebruiksfunctie":"T001419","RegioS":"GM0588","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":56494,"Gebruiksfunctie":"T001419","RegioS":"GM0542","Perioden":"2024JJ00","BeginstandVoorraad_1":"   14412","Nieuwbouw_2":"      93","OverigeToevoeging_3":"      32","Sloop_4":"       4","OverigeOnttrekking_5":"       5","Correctie_6":"     -11","SaldoVoorraad_7":"     105","EindstandVoorraad_8":"   14517"
+    },{
+      "ID":56720,"Gebruiksfunctie":"T001419","RegioS":"GM1931","Perioden":"2024JJ00","BeginstandVoorraad_1":"   27917","Nieuwbouw_2":"      95","OverigeToevoeging_3":"     137","Sloop_4":"      50","OverigeOnttrekking_5":"      20","Correctie_6":"       1","SaldoVoorraad_7":"     163","EindstandVoorraad_8":"   28080"
+    },{
+      "ID":56946,"Gebruiksfunctie":"T001419","RegioS":"GM1659","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11206","Nieuwbouw_2":"      39","OverigeToevoeging_3":"      20","Sloop_4":"      10","OverigeOnttrekking_5":"      12","Correctie_6":"      17","SaldoVoorraad_7":"      54","EindstandVoorraad_8":"   11260"
+    },{
+      "ID":57172,"Gebruiksfunctie":"T001419","RegioS":"GM1982","Perioden":"2024JJ00","BeginstandVoorraad_1":"   45322","Nieuwbouw_2":"     471","OverigeToevoeging_3":"     164","Sloop_4":"      27","OverigeOnttrekking_5":"      55","Correctie_6":"       3","SaldoVoorraad_7":"     556","EindstandVoorraad_8":"   45878"
+    },{
+      "ID":57398,"Gebruiksfunctie":"T001419","RegioS":"GM1685","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":57624,"Gebruiksfunctie":"T001419","RegioS":"GM0882","Perioden":"2024JJ00","BeginstandVoorraad_1":"   20239","Nieuwbouw_2":"      64","OverigeToevoeging_3":"      25","Sloop_4":"       6","OverigeOnttrekking_5":"      11","Correctie_6":"       1","SaldoVoorraad_7":"      73","EindstandVoorraad_8":"   20312"
+    },{
+      "ID":57850,"Gebruiksfunctie":"T001419","RegioS":"GM0415","Perioden":"2024JJ00","BeginstandVoorraad_1":"    5712","Nieuwbouw_2":"      49","OverigeToevoeging_3":"      14","Sloop_4":"      18","OverigeOnttrekking_5":"       6","Correctie_6":"       0","SaldoVoorraad_7":"      39","EindstandVoorraad_8":"    5751"
+    },{
+      "ID":58076,"Gebruiksfunctie":"T001419","RegioS":"GM0416","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":58302,"Gebruiksfunctie":"T001419","RegioS":"GM1621","Perioden":"2024JJ00","BeginstandVoorraad_1":"   28915","Nieuwbouw_2":"     353","OverigeToevoeging_3":"      22","Sloop_4":"      18","OverigeOnttrekking_5":"       9","Correctie_6":"      20","SaldoVoorraad_7":"     368","EindstandVoorraad_8":"   29283"
+    },{
+      "ID":58528,"Gebruiksfunctie":"T001419","RegioS":"GM0417","Perioden":"2024JJ00","BeginstandVoorraad_1":"    6235","Nieuwbouw_2":"      34","OverigeToevoeging_3":"      26","Sloop_4":"       3","OverigeOnttrekking_5":"      20","Correctie_6":"     -13","SaldoVoorraad_7":"      24","EindstandVoorraad_8":"    6259"
+    },{
+      "ID":58754,"Gebruiksfunctie":"T001419","RegioS":"GM0022","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":58980,"Gebruiksfunctie":"T001419","RegioS":"GM0545","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":59206,"Gebruiksfunctie":"T001419","RegioS":"GM0080","Perioden":"2024JJ00","BeginstandVoorraad_1":"   75441","Nieuwbouw_2":"     552","OverigeToevoeging_3":"     313","Sloop_4":"     190","OverigeOnttrekking_5":"     140","Correctie_6":"      -3","SaldoVoorraad_7":"     532","EindstandVoorraad_8":"   75973"
+    },{
+      "ID":59432,"Gebruiksfunctie":"T001419","RegioS":"GM0081","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":59658,"Gebruiksfunctie":"T001419","RegioS":"GM0546","Perioden":"2024JJ00","BeginstandVoorraad_1":"   71108","Nieuwbouw_2":"    1135","OverigeToevoeging_3":"     483","Sloop_4":"     124","OverigeOnttrekking_5":"     249","Correctie_6":"      10","SaldoVoorraad_7":"    1255","EindstandVoorraad_8":"   72363"
+    },{
+      "ID":59884,"Gebruiksfunctie":"T001419","RegioS":"GM0547","Perioden":"2024JJ00","BeginstandVoorraad_1":"   14518","Nieuwbouw_2":"      17","OverigeToevoeging_3":"       8","Sloop_4":"       1","OverigeOnttrekking_5":"       7","Correctie_6":"       0","SaldoVoorraad_7":"      17","EindstandVoorraad_8":"   14535"
+    },{
+      "ID":60110,"Gebruiksfunctie":"T001419","RegioS":"GM1916","Perioden":"2024JJ00","BeginstandVoorraad_1":"   41784","Nieuwbouw_2":"     371","OverigeToevoeging_3":"      32","Sloop_4":"      73","OverigeOnttrekking_5":"      21","Correctie_6":"      -2","SaldoVoorraad_7":"     307","EindstandVoorraad_8":"   42091"
+    },{
+      "ID":60336,"Gebruiksfunctie":"T001419","RegioS":"GM0995","Perioden":"2024JJ00","BeginstandVoorraad_1":"   40201","Nieuwbouw_2":"     479","OverigeToevoeging_3":"      53","Sloop_4":"      10","OverigeOnttrekking_5":"      22","Correctie_6":"       1","SaldoVoorraad_7":"     501","EindstandVoorraad_8":"   40702"
+    },{
+      "ID":60562,"Gebruiksfunctie":"T001419","RegioS":"GM0082","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":60788,"Gebruiksfunctie":"T001419","RegioS":"GM1640","Perioden":"2024JJ00","BeginstandVoorraad_1":"   18564","Nieuwbouw_2":"     127","OverigeToevoeging_3":"      80","Sloop_4":"      20","OverigeOnttrekking_5":"      45","Correctie_6":"       2","SaldoVoorraad_7":"     144","EindstandVoorraad_8":"   18708"
+    },{
+      "ID":61014,"Gebruiksfunctie":"T001419","RegioS":"GM0327","Perioden":"2024JJ00","BeginstandVoorraad_1":"   15160","Nieuwbouw_2":"     166","OverigeToevoeging_3":"      43","Sloop_4":"      16","OverigeOnttrekking_5":"      10","Correctie_6":"       2","SaldoVoorraad_7":"     185","EindstandVoorraad_8":"   15345"
+    },{
+      "ID":61240,"Gebruiksfunctie":"T001419","RegioS":"GM0694","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":61466,"Gebruiksfunctie":"T001419","RegioS":"GM0733","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":61692,"Gebruiksfunctie":"T001419","RegioS":"GM1705","Perioden":"2024JJ00","BeginstandVoorraad_1":"   22599","Nieuwbouw_2":"     257","OverigeToevoeging_3":"      47","Sloop_4":"      48","OverigeOnttrekking_5":"      18","Correctie_6":"       0","SaldoVoorraad_7":"     238","EindstandVoorraad_8":"   22837"
+    },{
+      "ID":61918,"Gebruiksfunctie":"T001419","RegioS":"GM0553","Perioden":"2024JJ00","BeginstandVoorraad_1":"   12384","Nieuwbouw_2":"     144","OverigeToevoeging_3":"       9","Sloop_4":"       8","OverigeOnttrekking_5":"      57","Correctie_6":"       1","SaldoVoorraad_7":"      89","EindstandVoorraad_8":"   12473"
+    },{
+      "ID":62144,"Gebruiksfunctie":"T001419","RegioS":"GM0140","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":62370,"Gebruiksfunctie":"T001419","RegioS":"GM0262","Perioden":"2024JJ00","BeginstandVoorraad_1":"   18971","Nieuwbouw_2":"      81","OverigeToevoeging_3":"      82","Sloop_4":"      30","OverigeOnttrekking_5":"      34","Correctie_6":"      13","SaldoVoorraad_7":"     112","EindstandVoorraad_8":"   19083"
+    },{
+      "ID":62596,"Gebruiksfunctie":"T001419","RegioS":"GM0809","Perioden":"2024JJ00","BeginstandVoorraad_1":"   12226","Nieuwbouw_2":"      93","OverigeToevoeging_3":"      20","Sloop_4":"       6","OverigeOnttrekking_5":"      17","Correctie_6":"       1","SaldoVoorraad_7":"      91","EindstandVoorraad_8":"   12317"
+    },{
+      "ID":62822,"Gebruiksfunctie":"T001419","RegioS":"GM0331","Perioden":"2024JJ00","BeginstandVoorraad_1":"    6817","Nieuwbouw_2":"      55","OverigeToevoeging_3":"      11","Sloop_4":"      14","OverigeOnttrekking_5":"       3","Correctie_6":"      -4","SaldoVoorraad_7":"      45","EindstandVoorraad_8":"    6862"
+    },{
+      "ID":63048,"Gebruiksfunctie":"T001419","RegioS":"GM0024","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":63274,"Gebruiksfunctie":"T001419","RegioS":"GM0168","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11286","Nieuwbouw_2":"     114","OverigeToevoeging_3":"      15","Sloop_4":"      10","OverigeOnttrekking_5":"      12","Correctie_6":"      -2","SaldoVoorraad_7":"     105","EindstandVoorraad_8":"   11391"
+    },{
+      "ID":63500,"Gebruiksfunctie":"T001419","RegioS":"GM1671","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":63726,"Gebruiksfunctie":"T001419","RegioS":"GM0263","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11619","Nieuwbouw_2":"     120","OverigeToevoeging_3":"      28","Sloop_4":"      58","OverigeOnttrekking_5":"      11","Correctie_6":"       1","SaldoVoorraad_7":"      80","EindstandVoorraad_8":"   11699"
+    },{
+      "ID":63952,"Gebruiksfunctie":"T001419","RegioS":"GM1641","Perioden":"2024JJ00","BeginstandVoorraad_1":"   13150","Nieuwbouw_2":"     165","OverigeToevoeging_3":"      66","Sloop_4":"       0","OverigeOnttrekking_5":"      57","Correctie_6":"      -2","SaldoVoorraad_7":"     172","EindstandVoorraad_8":"   13322"
+    },{
+      "ID":64178,"Gebruiksfunctie":"T001419","RegioS":"GM1991","Perioden":"2024JJ00","BeginstandVoorraad_1":"   30555","Nieuwbouw_2":"     304","OverigeToevoeging_3":"      84","Sloop_4":"      23","OverigeOnttrekking_5":"      40","Correctie_6":"      -7","SaldoVoorraad_7":"     318","EindstandVoorraad_8":"   30873"
+    },{
+      "ID":64404,"Gebruiksfunctie":"T001419","RegioS":"GM0556","Perioden":"2024JJ00","BeginstandVoorraad_1":"   18585","Nieuwbouw_2":"     388","OverigeToevoeging_3":"      20","Sloop_4":"     114","OverigeOnttrekking_5":"       9","Correctie_6":"      -1","SaldoVoorraad_7":"     284","EindstandVoorraad_8":"   18869"
+    },{
+      "ID":64630,"Gebruiksfunctie":"T001419","RegioS":"GM0935","Perioden":"2024JJ00","BeginstandVoorraad_1":"   74827","Nieuwbouw_2":"     253","OverigeToevoeging_3":"     316","Sloop_4":"     194","OverigeOnttrekking_5":"     119","Correctie_6":"      15","SaldoVoorraad_7":"     271","EindstandVoorraad_8":"   75098"
+    },{
+      "ID":64856,"Gebruiksfunctie":"T001419","RegioS":"GM1663","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":65082,"Gebruiksfunctie":"T001419","RegioS":"GM0025","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":65308,"Gebruiksfunctie":"T001419","RegioS":"GM0420","Perioden":"2024JJ00","BeginstandVoorraad_1":"   23092","Nieuwbouw_2":"     187","OverigeToevoeging_3":"      77","Sloop_4":"      27","OverigeOnttrekking_5":"      34","Correctie_6":"       8","SaldoVoorraad_7":"     211","EindstandVoorraad_8":"   23303"
+    },{
+      "ID":65534,"Gebruiksfunctie":"T001419","RegioS":"GM0938","Perioden":"2024JJ00","BeginstandVoorraad_1":"    9351","Nieuwbouw_2":"      21","OverigeToevoeging_3":"      16","Sloop_4":"       1","OverigeOnttrekking_5":"      14","Correctie_6":"       3","SaldoVoorraad_7":"      25","EindstandVoorraad_8":"    9376"
+    },{
+      "ID":65760,"Gebruiksfunctie":"T001419","RegioS":"GM1948","Perioden":"2024JJ00","BeginstandVoorraad_1":"   41325","Nieuwbouw_2":"     451","OverigeToevoeging_3":"     121","Sloop_4":"      85","OverigeOnttrekking_5":"      33","Correctie_6":"      -1","SaldoVoorraad_7":"     453","EindstandVoorraad_8":"   41778"
+    },{
+      "ID":65986,"Gebruiksfunctie":"T001419","RegioS":"GM1908","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":66212,"Gebruiksfunctie":"T001419","RegioS":"GM1987","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":66438,"Gebruiksfunctie":"T001419","RegioS":"GM0119","Perioden":"2024JJ00","BeginstandVoorraad_1":"   18889","Nieuwbouw_2":"     152","OverigeToevoeging_3":"      24","Sloop_4":"       7","OverigeOnttrekking_5":"       8","Correctie_6":"       2","SaldoVoorraad_7":"     163","EindstandVoorraad_8":"   19052"
+    },{
+      "ID":66664,"Gebruiksfunctie":"T001419","RegioS":"GM0687","Perioden":"2024JJ00","BeginstandVoorraad_1":"   29570","Nieuwbouw_2":"     205","OverigeToevoeging_3":"      46","Sloop_4":"      49","OverigeOnttrekking_5":"      23","Correctie_6":"      -4","SaldoVoorraad_7":"     175","EindstandVoorraad_8":"   29745"
+    },{
+      "ID":66890,"Gebruiksfunctie":"T001419","RegioS":"GM0559","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":67116,"Gebruiksfunctie":"T001419","RegioS":"GM1842","Perioden":"2024JJ00","BeginstandVoorraad_1":"    9279","Nieuwbouw_2":"      56","OverigeToevoeging_3":"      42","Sloop_4":"      10","OverigeOnttrekking_5":"      19","Correctie_6":"       0","SaldoVoorraad_7":"      69","EindstandVoorraad_8":"    9348"
+    },{
+      "ID":67342,"Gebruiksfunctie":"T001419","RegioS":"GM1731","Perioden":"2024JJ00","BeginstandVoorraad_1":"   18232","Nieuwbouw_2":"      62","OverigeToevoeging_3":"       8","Sloop_4":"      25","OverigeOnttrekking_5":"       5","Correctie_6":"       0","SaldoVoorraad_7":"      40","EindstandVoorraad_8":"   18272"
+    },{
+      "ID":67568,"Gebruiksfunctie":"T001419","RegioS":"GM1952","Perioden":"2024JJ00","BeginstandVoorraad_1":"   33115","Nieuwbouw_2":"     345","OverigeToevoeging_3":"      72","Sloop_4":"      95","OverigeOnttrekking_5":"      24","Correctie_6":"      10","SaldoVoorraad_7":"     308","EindstandVoorraad_8":"   33423"
+    },{
+      "ID":67794,"Gebruiksfunctie":"T001419","RegioS":"GM0815","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":68020,"Gebruiksfunctie":"T001419","RegioS":"GM0265","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":68246,"Gebruiksfunctie":"T001419","RegioS":"GM1709","Perioden":"2024JJ00","BeginstandVoorraad_1":"   20117","Nieuwbouw_2":"     116","OverigeToevoeging_3":"      43","Sloop_4":"      20","OverigeOnttrekking_5":"      22","Correctie_6":"       1","SaldoVoorraad_7":"     118","EindstandVoorraad_8":"   20235"
+    },{
+      "ID":68472,"Gebruiksfunctie":"T001419","RegioS":"GM1978","Perioden":"2024JJ00","BeginstandVoorraad_1":"   20671","Nieuwbouw_2":"     121","OverigeToevoeging_3":"      77","Sloop_4":"      43","OverigeOnttrekking_5":"      44","Correctie_6":"       1","SaldoVoorraad_7":"     112","EindstandVoorraad_8":"   20783"
+    },{
+      "ID":68698,"Gebruiksfunctie":"T001419","RegioS":"GM1927","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":68924,"Gebruiksfunctie":"T001419","RegioS":"GM1955","Perioden":"2024JJ00","BeginstandVoorraad_1":"   18062","Nieuwbouw_2":"      79","OverigeToevoeging_3":"      29","Sloop_4":"      65","OverigeOnttrekking_5":"      16","Correctie_6":"       0","SaldoVoorraad_7":"      27","EindstandVoorraad_8":"   18089"
+    },{
+      "ID":69150,"Gebruiksfunctie":"T001419","RegioS":"GM0335","Perioden":"2024JJ00","BeginstandVoorraad_1":"    6651","Nieuwbouw_2":"      17","OverigeToevoeging_3":"      23","Sloop_4":"       6","OverigeOnttrekking_5":"       9","Correctie_6":"       0","SaldoVoorraad_7":"      25","EindstandVoorraad_8":"    6676"
+    },{
+      "ID":69376,"Gebruiksfunctie":"T001419","RegioS":"GM0944","Perioden":"2024JJ00","BeginstandVoorraad_1":"    4199","Nieuwbouw_2":"      24","OverigeToevoeging_3":"       8","Sloop_4":"      11","OverigeOnttrekking_5":"       5","Correctie_6":"       1","SaldoVoorraad_7":"      17","EindstandVoorraad_8":"    4216"
+    },{
+      "ID":69602,"Gebruiksfunctie":"T001419","RegioS":"GM0424","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":69828,"Gebruiksfunctie":"T001419","RegioS":"GM0425","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":70054,"Gebruiksfunctie":"T001419","RegioS":"GM1740","Perioden":"2024JJ00","BeginstandVoorraad_1":"   10591","Nieuwbouw_2":"     104","OverigeToevoeging_3":"      20","Sloop_4":"      23","OverigeOnttrekking_5":"       3","Correctie_6":"       1","SaldoVoorraad_7":"      99","EindstandVoorraad_8":"   10690"
+    },{
+      "ID":70280,"Gebruiksfunctie":"T001419","RegioS":"GM0643","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":70506,"Gebruiksfunctie":"T001419","RegioS":"GM0946","Perioden":"2024JJ00","BeginstandVoorraad_1":"    8549","Nieuwbouw_2":"      62","OverigeToevoeging_3":"      36","Sloop_4":"      31","OverigeOnttrekking_5":"      18","Correctie_6":"     -15","SaldoVoorraad_7":"      34","EindstandVoorraad_8":"    8583"
+    },{
+      "ID":70732,"Gebruiksfunctie":"T001419","RegioS":"GM0304","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":70958,"Gebruiksfunctie":"T001419","RegioS":"GM0356","Perioden":"2024JJ00","BeginstandVoorraad_1":"   34390","Nieuwbouw_2":"     615","OverigeToevoeging_3":"      74","Sloop_4":"      39","OverigeOnttrekking_5":"      31","Correctie_6":"       7","SaldoVoorraad_7":"     626","EindstandVoorraad_8":"   35016"
+    },{
+      "ID":71184,"Gebruiksfunctie":"T001419","RegioS":"GM0569","Perioden":"2024JJ00","BeginstandVoorraad_1":"   14208","Nieuwbouw_2":"      60","OverigeToevoeging_3":"      19","Sloop_4":"      25","OverigeOnttrekking_5":"      11","Correctie_6":"       1","SaldoVoorraad_7":"      44","EindstandVoorraad_8":"   14252"
+    },{
+      "ID":71410,"Gebruiksfunctie":"T001419","RegioS":"GM0571","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":71636,"Gebruiksfunctie":"T001419","RegioS":"GM0267","Perioden":"2024JJ00","BeginstandVoorraad_1":"   21378","Nieuwbouw_2":"      69","OverigeToevoeging_3":"      34","Sloop_4":"      31","OverigeOnttrekking_5":"      19","Correctie_6":"      -1","SaldoVoorraad_7":"      52","EindstandVoorraad_8":"   21430"
+    },{
+      "ID":71862,"Gebruiksfunctie":"T001419","RegioS":"GM0268","Perioden":"2024JJ00","BeginstandVoorraad_1":"   97580","Nieuwbouw_2":"    1368","OverigeToevoeging_3":"     405","Sloop_4":"      47","OverigeOnttrekking_5":"     115","Correctie_6":"       2","SaldoVoorraad_7":"    1613","EindstandVoorraad_8":"   99193"
+    },{
+      "ID":72088,"Gebruiksfunctie":"T001419","RegioS":"GM1930","Perioden":"2024JJ00","BeginstandVoorraad_1":"   44781","Nieuwbouw_2":"     336","OverigeToevoeging_3":"     169","Sloop_4":"     234","OverigeOnttrekking_5":"      17","Correctie_6":"       7","SaldoVoorraad_7":"     261","EindstandVoorraad_8":"   45042"
+    },{
+      "ID":72314,"Gebruiksfunctie":"T001419","RegioS":"GM1970","Perioden":"2024JJ00","BeginstandVoorraad_1":"   24709","Nieuwbouw_2":"     133","OverigeToevoeging_3":"      42","Sloop_4":"      73","OverigeOnttrekking_5":"      34","Correctie_6":"      -1","SaldoVoorraad_7":"      67","EindstandVoorraad_8":"   24777"
+    },{
+      "ID":72540,"Gebruiksfunctie":"T001419","RegioS":"GM1695","Perioden":"2024JJ00","BeginstandVoorraad_1":"    7506","Nieuwbouw_2":"     106","OverigeToevoeging_3":"      20","Sloop_4":"      31","OverigeOnttrekking_5":"       8","Correctie_6":"       6","SaldoVoorraad_7":"      93","EindstandVoorraad_8":"    7599"
+    },{
+      "ID":72766,"Gebruiksfunctie":"T001419","RegioS":"GM1699","Perioden":"2024JJ00","BeginstandVoorraad_1":"   17693","Nieuwbouw_2":"     181","OverigeToevoeging_3":"      21","Sloop_4":"      35","OverigeOnttrekking_5":"      17","Correctie_6":"       1","SaldoVoorraad_7":"     151","EindstandVoorraad_8":"   17844"
+    },{
+      "ID":72992,"Gebruiksfunctie":"T001419","RegioS":"GM0171","Perioden":"2024JJ00","BeginstandVoorraad_1":"   24771","Nieuwbouw_2":"     284","OverigeToevoeging_3":"      38","Sloop_4":"      18","OverigeOnttrekking_5":"      24","Correctie_6":"       0","SaldoVoorraad_7":"     280","EindstandVoorraad_8":"   25051"
+    },{
+      "ID":73218,"Gebruiksfunctie":"T001419","RegioS":"GM0575","Perioden":"2024JJ00","BeginstandVoorraad_1":"   26713","Nieuwbouw_2":"     226","OverigeToevoeging_3":"      40","Sloop_4":"      54","OverigeOnttrekking_5":"      22","Correctie_6":"     -17","SaldoVoorraad_7":"     173","EindstandVoorraad_8":"   26886"
+    },{
+      "ID":73444,"Gebruiksfunctie":"T001419","RegioS":"GM0576","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":73670,"Gebruiksfunctie":"T001419","RegioS":"GM0820","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11827","Nieuwbouw_2":"      99","OverigeToevoeging_3":"      11","Sloop_4":"       7","OverigeOnttrekking_5":"       5","Correctie_6":"       0","SaldoVoorraad_7":"      98","EindstandVoorraad_8":"   11925"
+    },{
+      "ID":73896,"Gebruiksfunctie":"T001419","RegioS":"GM0302","Perioden":"2024JJ00","BeginstandVoorraad_1":"   14860","Nieuwbouw_2":"     186","OverigeToevoeging_3":"      69","Sloop_4":"      53","OverigeOnttrekking_5":"      46","Correctie_6":"      -4","SaldoVoorraad_7":"     152","EindstandVoorraad_8":"   15012"
+    },{
+      "ID":74122,"Gebruiksfunctie":"T001419","RegioS":"GM0951","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":74348,"Gebruiksfunctie":"T001419","RegioS":"GM0579","Perioden":"2024JJ00","BeginstandVoorraad_1":"   12339","Nieuwbouw_2":"       9","OverigeToevoeging_3":"      22","Sloop_4":"       5","OverigeOnttrekking_5":"      18","Correctie_6":"      -2","SaldoVoorraad_7":"       6","EindstandVoorraad_8":"   12345"
+    },{
+      "ID":74574,"Gebruiksfunctie":"T001419","RegioS":"GM0823","Perioden":"2024JJ00","BeginstandVoorraad_1":"    9551","Nieuwbouw_2":"     228","OverigeToevoeging_3":"      50","Sloop_4":"      17","OverigeOnttrekking_5":"      19","Correctie_6":"      14","SaldoVoorraad_7":"     256","EindstandVoorraad_8":"    9807"
+    },{
+      "ID":74800,"Gebruiksfunctie":"T001419","RegioS":"GM0824","Perioden":"2024JJ00","BeginstandVoorraad_1":"   16431","Nieuwbouw_2":"     143","OverigeToevoeging_3":"      78","Sloop_4":"      59","OverigeOnttrekking_5":"       8","Correctie_6":"      10","SaldoVoorraad_7":"     164","EindstandVoorraad_8":"   16595"
+    },{
+      "ID":75026,"Gebruiksfunctie":"T001419","RegioS":"GM1895","Perioden":"2024JJ00","BeginstandVoorraad_1":"   22024","Nieuwbouw_2":"     108","OverigeToevoeging_3":"      68","Sloop_4":"      45","OverigeOnttrekking_5":"      25","Correctie_6":"      -9","SaldoVoorraad_7":"      97","EindstandVoorraad_8":"   22121"
+    },{
+      "ID":75252,"Gebruiksfunctie":"T001419","RegioS":"GM0269","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11239","Nieuwbouw_2":"      73","OverigeToevoeging_3":"       8","Sloop_4":"      22","OverigeOnttrekking_5":"      12","Correctie_6":"     168","SaldoVoorraad_7":"     215","EindstandVoorraad_8":"   11458"
+    },{
+      "ID":75478,"Gebruiksfunctie":"T001419","RegioS":"GM0173","Perioden":"2024JJ00","BeginstandVoorraad_1":"   17120","Nieuwbouw_2":"     152","OverigeToevoeging_3":"      27","Sloop_4":"      32","OverigeOnttrekking_5":"      11","Correctie_6":"      -1","SaldoVoorraad_7":"     135","EindstandVoorraad_8":"   17255"
+    },{
+      "ID":75704,"Gebruiksfunctie":"T001419","RegioS":"GM1773","Perioden":"2024JJ00","BeginstandVoorraad_1":"    9129","Nieuwbouw_2":"     170","OverigeToevoeging_3":"      32","Sloop_4":"      26","OverigeOnttrekking_5":"      16","Correctie_6":"       0","SaldoVoorraad_7":"     160","EindstandVoorraad_8":"    9289"
+    },{
+      "ID":75930,"Gebruiksfunctie":"T001419","RegioS":"GM0175","Perioden":"2024JJ00","BeginstandVoorraad_1":"   10308","Nieuwbouw_2":"     117","OverigeToevoeging_3":"      35","Sloop_4":"      11","OverigeOnttrekking_5":"       8","Correctie_6":"       0","SaldoVoorraad_7":"     133","EindstandVoorraad_8":"   10441"
+    },{
+      "ID":76156,"Gebruiksfunctie":"T001419","RegioS":"GM0881","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":76382,"Gebruiksfunctie":"T001419","RegioS":"GM1586","Perioden":"2024JJ00","BeginstandVoorraad_1":"   15384","Nieuwbouw_2":"      57","OverigeToevoeging_3":"      50","Sloop_4":"      21","OverigeOnttrekking_5":"      24","Correctie_6":"      38","SaldoVoorraad_7":"     100","EindstandVoorraad_8":"   15484"
+    },{
+      "ID":76608,"Gebruiksfunctie":"T001419","RegioS":"GM0826","Perioden":"2024JJ00","BeginstandVoorraad_1":"   31043","Nieuwbouw_2":"     368","OverigeToevoeging_3":"      27","Sloop_4":"       4","OverigeOnttrekking_5":"      22","Correctie_6":"       1","SaldoVoorraad_7":"     370","EindstandVoorraad_8":"   31413"
+    },{
+      "ID":76834,"Gebruiksfunctie":"T001419","RegioS":"GM0580","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":77060,"Gebruiksfunctie":"T001419","RegioS":"GM0085","Perioden":"2024JJ00","BeginstandVoorraad_1":"   13983","Nieuwbouw_2":"      21","OverigeToevoeging_3":"      23","Sloop_4":"      28","OverigeOnttrekking_5":"       4","Correctie_6":"       4","SaldoVoorraad_7":"      16","EindstandVoorraad_8":"   13999"
+    },{
+      "ID":77286,"Gebruiksfunctie":"T001419","RegioS":"GM0431","Perioden":"2024JJ00","BeginstandVoorraad_1":"    4846","Nieuwbouw_2":"      40","OverigeToevoeging_3":"       0","Sloop_4":"      11","OverigeOnttrekking_5":"       0","Correctie_6":"       0","SaldoVoorraad_7":"      29","EindstandVoorraad_8":"    4875"
+    },{
+      "ID":77512,"Gebruiksfunctie":"T001419","RegioS":"GM0432","Perioden":"2024JJ00","BeginstandVoorraad_1":"    5952","Nieuwbouw_2":"     157","OverigeToevoeging_3":"      25","Sloop_4":"       4","OverigeOnttrekking_5":"      18","Correctie_6":"       0","SaldoVoorraad_7":"     160","EindstandVoorraad_8":"    6112"
+    },{
+      "ID":77738,"Gebruiksfunctie":"T001419","RegioS":"GM0086","Perioden":"2024JJ00","BeginstandVoorraad_1":"   14876","Nieuwbouw_2":"     142","OverigeToevoeging_3":"      33","Sloop_4":"      23","OverigeOnttrekking_5":"      10","Correctie_6":"      -1","SaldoVoorraad_7":"     141","EindstandVoorraad_8":"   15017"
+    },{
+      "ID":77964,"Gebruiksfunctie":"T001419","RegioS":"GM0828","Perioden":"2024JJ00","BeginstandVoorraad_1":"   47290","Nieuwbouw_2":"     346","OverigeToevoeging_3":"     113","Sloop_4":"      83","OverigeOnttrekking_5":"      74","Correctie_6":"       6","SaldoVoorraad_7":"     308","EindstandVoorraad_8":"   47598"
+    },{
+      "ID":78190,"Gebruiksfunctie":"T001419","RegioS":"GM0584","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":78416,"Gebruiksfunctie":"T001419","RegioS":"GM1509","Perioden":"2024JJ00","BeginstandVoorraad_1":"   19396","Nieuwbouw_2":"      83","OverigeToevoeging_3":"      12","Sloop_4":"      95","OverigeOnttrekking_5":"      17","Correctie_6":"       2","SaldoVoorraad_7":"     -15","EindstandVoorraad_8":"   19381"
+    },{
+      "ID":78642,"Gebruiksfunctie":"T001419","RegioS":"GM0437","Perioden":"2024JJ00","BeginstandVoorraad_1":"    8573","Nieuwbouw_2":"      12","OverigeToevoeging_3":"      45","Sloop_4":"      57","OverigeOnttrekking_5":"       5","Correctie_6":"      -2","SaldoVoorraad_7":"      -7","EindstandVoorraad_8":"    8566"
+    },{
+      "ID":78868,"Gebruiksfunctie":"T001419","RegioS":"GM0644","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":79094,"Gebruiksfunctie":"T001419","RegioS":"GM0589","Perioden":"2024JJ00","BeginstandVoorraad_1":"    5088","Nieuwbouw_2":"     118","OverigeToevoeging_3":"       7","Sloop_4":"      10","OverigeOnttrekking_5":"       4","Correctie_6":"      -1","SaldoVoorraad_7":"     110","EindstandVoorraad_8":"    5198"
+    },{
+      "ID":79320,"Gebruiksfunctie":"T001419","RegioS":"GM1734","Perioden":"2024JJ00","BeginstandVoorraad_1":"   23406","Nieuwbouw_2":"     175","OverigeToevoeging_3":"      55","Sloop_4":"      35","OverigeOnttrekking_5":"      32","Correctie_6":"       1","SaldoVoorraad_7":"     164","EindstandVoorraad_8":"   23570"
+    },{
+      "ID":79546,"Gebruiksfunctie":"T001419","RegioS":"GM0590","Perioden":"2024JJ00","BeginstandVoorraad_1":"   16515","Nieuwbouw_2":"      17","OverigeToevoeging_3":"      21","Sloop_4":"       2","OverigeOnttrekking_5":"      13","Correctie_6":"       1","SaldoVoorraad_7":"      24","EindstandVoorraad_8":"   16539"
+    },{
+      "ID":79772,"Gebruiksfunctie":"T001419","RegioS":"GM1894","Perioden":"2024JJ00","BeginstandVoorraad_1":"   21819","Nieuwbouw_2":"     207","OverigeToevoeging_3":"     138","Sloop_4":"      15","OverigeOnttrekking_5":"      18","Correctie_6":"     -13","SaldoVoorraad_7":"     299","EindstandVoorraad_8":"   22118"
+    },{
+      "ID":79998,"Gebruiksfunctie":"T001419","RegioS":"GM0765","Perioden":"2024JJ00","BeginstandVoorraad_1":"    6450","Nieuwbouw_2":"      75","OverigeToevoeging_3":"       2","Sloop_4":"      32","OverigeOnttrekking_5":"       1","Correctie_6":"       0","SaldoVoorraad_7":"      44","EindstandVoorraad_8":"    6494"
+    },{
+      "ID":80224,"Gebruiksfunctie":"T001419","RegioS":"GM1926","Perioden":"2024JJ00","BeginstandVoorraad_1":"   25015","Nieuwbouw_2":"     247","OverigeToevoeging_3":"      22","Sloop_4":"       7","OverigeOnttrekking_5":"       7","Correctie_6":"      -5","SaldoVoorraad_7":"     250","EindstandVoorraad_8":"   25265"
+    },{
+      "ID":80450,"Gebruiksfunctie":"T001419","RegioS":"GM0439","Perioden":"2024JJ00","BeginstandVoorraad_1":"   48071","Nieuwbouw_2":"     460","OverigeToevoeging_3":"      58","Sloop_4":"      47","OverigeOnttrekking_5":"      34","Correctie_6":"       2","SaldoVoorraad_7":"     439","EindstandVoorraad_8":"   48510"
+    },{
+      "ID":80676,"Gebruiksfunctie":"T001419","RegioS":"GM0273","Perioden":"2024JJ00","BeginstandVoorraad_1":"   13024","Nieuwbouw_2":"      85","OverigeToevoeging_3":"      47","Sloop_4":"      61","OverigeOnttrekking_5":"      17","Correctie_6":"      30","SaldoVoorraad_7":"      84","EindstandVoorraad_8":"   13108"
+    },{
+      "ID":80902,"Gebruiksfunctie":"T001419","RegioS":"GM0177","Perioden":"2024JJ00","BeginstandVoorraad_1":"   18664","Nieuwbouw_2":"     114","OverigeToevoeging_3":"      25","Sloop_4":"      18","OverigeOnttrekking_5":"       6","Correctie_6":"       2","SaldoVoorraad_7":"     117","EindstandVoorraad_8":"   18781"
+    },{
+      "ID":81128,"Gebruiksfunctie":"T001419","RegioS":"GM0703","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11462","Nieuwbouw_2":"      46","OverigeToevoeging_3":"      17","Sloop_4":"      14","OverigeOnttrekking_5":"      11","Correctie_6":"      -1","SaldoVoorraad_7":"      37","EindstandVoorraad_8":"   11499"
+    },{
+      "ID":81354,"Gebruiksfunctie":"T001419","RegioS":"GM0274","Perioden":"2024JJ00","BeginstandVoorraad_1":"   16871","Nieuwbouw_2":"      81","OverigeToevoeging_3":"     151","Sloop_4":"      23","OverigeOnttrekking_5":"      31","Correctie_6":"       0","SaldoVoorraad_7":"     178","EindstandVoorraad_8":"   17049"
+    },{
+      "ID":81580,"Gebruiksfunctie":"T001419","RegioS":"GM0339","Perioden":"2024JJ00","BeginstandVoorraad_1":"    2534","Nieuwbouw_2":"      43","OverigeToevoeging_3":"       7","Sloop_4":"       4","OverigeOnttrekking_5":"      10","Correctie_6":"       0","SaldoVoorraad_7":"      36","EindstandVoorraad_8":"    2570"
+    },{
+      "ID":81806,"Gebruiksfunctie":"T001419","RegioS":"GM1667","Perioden":"2024JJ00","BeginstandVoorraad_1":"    6658","Nieuwbouw_2":"     115","OverigeToevoeging_3":"      36","Sloop_4":"      38","OverigeOnttrekking_5":"       9","Correctie_6":"      -1","SaldoVoorraad_7":"     103","EindstandVoorraad_8":"    6761"
+    },{
+      "ID":82032,"Gebruiksfunctie":"T001419","RegioS":"GM0275","Perioden":"2024JJ00","BeginstandVoorraad_1":"   24500","Nieuwbouw_2":"      75","OverigeToevoeging_3":"      73","Sloop_4":"       9","OverigeOnttrekking_5":"      36","Correctie_6":"       7","SaldoVoorraad_7":"     110","EindstandVoorraad_8":"   24610"
+    },{
+      "ID":82258,"Gebruiksfunctie":"T001419","RegioS":"GM0340","Perioden":"2024JJ00","BeginstandVoorraad_1":"    9525","Nieuwbouw_2":"      44","OverigeToevoeging_3":"      35","Sloop_4":"      11","OverigeOnttrekking_5":"       9","Correctie_6":"       5","SaldoVoorraad_7":"      64","EindstandVoorraad_8":"    9589"
+    },{
+      "ID":82484,"Gebruiksfunctie":"T001419","RegioS":"GM0597","Perioden":"2024JJ00","BeginstandVoorraad_1":"   25841","Nieuwbouw_2":"     214","OverigeToevoeging_3":"     133","Sloop_4":"      57","OverigeOnttrekking_5":"      23","Correctie_6":"       0","SaldoVoorraad_7":"     267","EindstandVoorraad_8":"   26108"
+    },{
+      "ID":82710,"Gebruiksfunctie":"T001419","RegioS":"GM0196","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":82936,"Gebruiksfunctie":"T001419","RegioS":"GM1672","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":83162,"Gebruiksfunctie":"T001419","RegioS":"GM1742","Perioden":"2024JJ00","BeginstandVoorraad_1":"   18274","Nieuwbouw_2":"     126","OverigeToevoeging_3":"      46","Sloop_4":"      43","OverigeOnttrekking_5":"      14","Correctie_6":"       2","SaldoVoorraad_7":"     117","EindstandVoorraad_8":"   18391"
+    },{
+      "ID":83388,"Gebruiksfunctie":"T001419","RegioS":"GM0603","Perioden":"2024JJ00","BeginstandVoorraad_1":"   33015","Nieuwbouw_2":"     371","OverigeToevoeging_3":"     276","Sloop_4":"       7","OverigeOnttrekking_5":"      57","Correctie_6":"      -1","SaldoVoorraad_7":"     582","EindstandVoorraad_8":"   33597"
+    },{
+      "ID":83614,"Gebruiksfunctie":"T001419","RegioS":"GM1669","Perioden":"2024JJ00","BeginstandVoorraad_1":"   10937","Nieuwbouw_2":"     129","OverigeToevoeging_3":"      10","Sloop_4":"      18","OverigeOnttrekking_5":"       4","Correctie_6":"       0","SaldoVoorraad_7":"     117","EindstandVoorraad_8":"   11054"
+    },{
+      "ID":83840,"Gebruiksfunctie":"T001419","RegioS":"GM0957","Perioden":"2024JJ00","BeginstandVoorraad_1":"   32947","Nieuwbouw_2":"     345","OverigeToevoeging_3":"     301","Sloop_4":"     132","OverigeOnttrekking_5":"      46","Correctie_6":"      -8","SaldoVoorraad_7":"     460","EindstandVoorraad_8":"   33407"
+    },{
+      "ID":84066,"Gebruiksfunctie":"T001419","RegioS":"GM0736","Perioden":"2024JJ00","BeginstandVoorraad_1":"   23253","Nieuwbouw_2":"      61","OverigeToevoeging_3":"      32","Sloop_4":"      27","OverigeOnttrekking_5":"      14","Correctie_6":"       6","SaldoVoorraad_7":"      58","EindstandVoorraad_8":"   23311"
+    },{
+      "ID":84292,"Gebruiksfunctie":"T001419","RegioS":"GM1674","Perioden":"2024JJ00","BeginstandVoorraad_1":"   43401","Nieuwbouw_2":"     249","OverigeToevoeging_3":"      73","Sloop_4":"     351","OverigeOnttrekking_5":"      36","Correctie_6":"       0","SaldoVoorraad_7":"     -65","EindstandVoorraad_8":"   43336"
+    },{
+      "ID":84518,"Gebruiksfunctie":"T001419","RegioS":"GM0599","Perioden":"2024JJ00","BeginstandVoorraad_1":"  357748","Nieuwbouw_2":"    3275","OverigeToevoeging_3":"    2642","Sloop_4":"     749","OverigeOnttrekking_5":"    1198","Correctie_6":"     -95","SaldoVoorraad_7":"    3875","EindstandVoorraad_8":"  361624"
+    },{
+      "ID":84744,"Gebruiksfunctie":"T001419","RegioS":"GM0277","Perioden":"2024JJ00","BeginstandVoorraad_1":"     746","Nieuwbouw_2":"       3","OverigeToevoeging_3":"       0","Sloop_4":"       0","OverigeOnttrekking_5":"       0","Correctie_6":"      -1","SaldoVoorraad_7":"       2","EindstandVoorraad_8":"     748"
+    },{
+      "ID":84970,"Gebruiksfunctie":"T001419","RegioS":"GM0840","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11379","Nieuwbouw_2":"      29","OverigeToevoeging_3":"      13","Sloop_4":"      67","OverigeOnttrekking_5":"       5","Correctie_6":"      -1","SaldoVoorraad_7":"     -31","EindstandVoorraad_8":"   11348"
+    },{
+      "ID":85196,"Gebruiksfunctie":"T001419","RegioS":"GM0441","Perioden":"2024JJ00","BeginstandVoorraad_1":"   28931","Nieuwbouw_2":"     432","OverigeToevoeging_3":"     358","Sloop_4":"      17","OverigeOnttrekking_5":"     192","Correctie_6":"      32","SaldoVoorraad_7":"     613","EindstandVoorraad_8":"   29544"
+    },{
+      "ID":85422,"Gebruiksfunctie":"T001419","RegioS":"GM0458","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":85648,"Gebruiksfunctie":"T001419","RegioS":"GM0279","Perioden":"2024JJ00","BeginstandVoorraad_1":"    4920","Nieuwbouw_2":"      44","OverigeToevoeging_3":"       3","Sloop_4":"       8","OverigeOnttrekking_5":"       1","Correctie_6":"       0","SaldoVoorraad_7":"      38","EindstandVoorraad_8":"    4958"
+    },{
+      "ID":85874,"Gebruiksfunctie":"T001419","RegioS":"GM0606","Perioden":"2024JJ00","BeginstandVoorraad_1":"   42094","Nieuwbouw_2":"      75","OverigeToevoeging_3":"     110","Sloop_4":"      21","OverigeOnttrekking_5":"     143","Correctie_6":"       8","SaldoVoorraad_7":"      29","EindstandVoorraad_8":"   42123"
+    },{
+      "ID":86100,"Gebruiksfunctie":"T001419","RegioS":"GM0088","Perioden":"2024JJ00","BeginstandVoorraad_1":"    1539","Nieuwbouw_2":"       6","OverigeToevoeging_3":"       1","Sloop_4":"       2","OverigeOnttrekking_5":"       0","Correctie_6":"       2","SaldoVoorraad_7":"       7","EindstandVoorraad_8":"    1546"
+    },{
+      "ID":86326,"Gebruiksfunctie":"T001419","RegioS":"GM0844","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":86552,"Gebruiksfunctie":"T001419","RegioS":"GM0962","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":86778,"Gebruiksfunctie":"T001419","RegioS":"GM0608","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":87004,"Gebruiksfunctie":"T001419","RegioS":"GM1676","Perioden":"2024JJ00","BeginstandVoorraad_1":"   24943","Nieuwbouw_2":"     214","OverigeToevoeging_3":"     152","Sloop_4":"     101","OverigeOnttrekking_5":"     110","Correctie_6":"      30","SaldoVoorraad_7":"     185","EindstandVoorraad_8":"   25128"
+    },{
+      "ID":87230,"Gebruiksfunctie":"T001419","RegioS":"GM0965","Perioden":"2024JJ00","BeginstandVoorraad_1":"    6100","Nieuwbouw_2":"       2","OverigeToevoeging_3":"       8","Sloop_4":"      29","OverigeOnttrekking_5":"      11","Correctie_6":"       1","SaldoVoorraad_7":"     -29","EindstandVoorraad_8":"    6071"
+    },{
+      "ID":87456,"Gebruiksfunctie":"T001419","RegioS":"GM1702","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":87682,"Gebruiksfunctie":"T001419","RegioS":"GM0845","Perioden":"2024JJ00","BeginstandVoorraad_1":"   13705","Nieuwbouw_2":"      21","OverigeToevoeging_3":"      25","Sloop_4":"      14","OverigeOnttrekking_5":"      15","Correctie_6":"      -1","SaldoVoorraad_7":"      16","EindstandVoorraad_8":"   13721"
+    },{
+      "ID":87908,"Gebruiksfunctie":"T001419","RegioS":"GM0846","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":88134,"Gebruiksfunctie":"T001419","RegioS":"GM1883","Perioden":"2024JJ00","BeginstandVoorraad_1":"   53769","Nieuwbouw_2":"     174","OverigeToevoeging_3":"     192","Sloop_4":"      62","OverigeOnttrekking_5":"      47","Correctie_6":"       1","SaldoVoorraad_7":"     258","EindstandVoorraad_8":"   54027"
+    },{
+      "ID":88360,"Gebruiksfunctie":"T001419","RegioS":"GM0051","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":88586,"Gebruiksfunctie":"T001419","RegioS":"GM0610","Perioden":"2024JJ00","BeginstandVoorraad_1":"   12800","Nieuwbouw_2":"     204","OverigeToevoeging_3":"      24","Sloop_4":"       2","OverigeOnttrekking_5":"      10","Correctie_6":"       1","SaldoVoorraad_7":"     217","EindstandVoorraad_8":"   13017"
+    },{
+      "ID":88812,"Gebruiksfunctie":"T001419","RegioS":"GM0040","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":89038,"Gebruiksfunctie":"T001419","RegioS":"GM1714","Perioden":"2024JJ00","BeginstandVoorraad_1":"   23117","Nieuwbouw_2":"     311","OverigeToevoeging_3":"      59","Sloop_4":"      65","OverigeOnttrekking_5":"      23","Correctie_6":"      -2","SaldoVoorraad_7":"     280","EindstandVoorraad_8":"   23397"
+    },{
+      "ID":89264,"Gebruiksfunctie":"T001419","RegioS":"GM0090","Perioden":"2024JJ00","BeginstandVoorraad_1":"   30696","Nieuwbouw_2":"     255","OverigeToevoeging_3":"      44","Sloop_4":"      10","OverigeOnttrekking_5":"      39","Correctie_6":"     -35","SaldoVoorraad_7":"     215","EindstandVoorraad_8":"   30911"
+    },{
+      "ID":89490,"Gebruiksfunctie":"T001419","RegioS":"GM0342","Perioden":"2024JJ00","BeginstandVoorraad_1":"   25169","Nieuwbouw_2":"     210","OverigeToevoeging_3":"      44","Sloop_4":"      17","OverigeOnttrekking_5":"      35","Correctie_6":"     -34","SaldoVoorraad_7":"     168","EindstandVoorraad_8":"   25337"
+    },{
+      "ID":89716,"Gebruiksfunctie":"T001419","RegioS":"GM0847","Perioden":"2024JJ00","BeginstandVoorraad_1":"    9773","Nieuwbouw_2":"     246","OverigeToevoeging_3":"      31","Sloop_4":"      24","OverigeOnttrekking_5":"      12","Correctie_6":"       1","SaldoVoorraad_7":"     242","EindstandVoorraad_8":"   10015"
+    },{
+      "ID":89942,"Gebruiksfunctie":"T001419","RegioS":"GM0848","Perioden":"2024JJ00","BeginstandVoorraad_1":"    8799","Nieuwbouw_2":"      13","OverigeToevoeging_3":"      12","Sloop_4":"       7","OverigeOnttrekking_5":"       3","Correctie_6":"       2","SaldoVoorraad_7":"      17","EindstandVoorraad_8":"    8816"
+    },{
+      "ID":90168,"Gebruiksfunctie":"T001419","RegioS":"GM0612","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":90394,"Gebruiksfunctie":"T001419","RegioS":"GM0037","Perioden":"2024JJ00","BeginstandVoorraad_1":"   17605","Nieuwbouw_2":"      53","OverigeToevoeging_3":"      14","Sloop_4":"      11","OverigeOnttrekking_5":"       4","Correctie_6":"      -1","SaldoVoorraad_7":"      51","EindstandVoorraad_8":"   17656"
+    },{
+      "ID":90620,"Gebruiksfunctie":"T001419","RegioS":"GM0180","Perioden":"2024JJ00","BeginstandVoorraad_1":"    7376","Nieuwbouw_2":"     185","OverigeToevoeging_3":"      14","Sloop_4":"      71","OverigeOnttrekking_5":"       6","Correctie_6":"      -1","SaldoVoorraad_7":"     121","EindstandVoorraad_8":"    7497"
+    },{
+      "ID":90846,"Gebruiksfunctie":"T001419","RegioS":"GM0532","Perioden":"2024JJ00","BeginstandVoorraad_1":"   10412","Nieuwbouw_2":"      25","OverigeToevoeging_3":"       5","Sloop_4":"      14","OverigeOnttrekking_5":"       4","Correctie_6":"       0","SaldoVoorraad_7":"      12","EindstandVoorraad_8":"   10424"
+    },{
+      "ID":91072,"Gebruiksfunctie":"T001419","RegioS":"GM0851","Perioden":"2024JJ00","BeginstandVoorraad_1":"   12659","Nieuwbouw_2":"     128","OverigeToevoeging_3":"      12","Sloop_4":"       5","OverigeOnttrekking_5":"       8","Correctie_6":"       1","SaldoVoorraad_7":"     128","EindstandVoorraad_8":"   12787"
+    },{
+      "ID":91298,"Gebruiksfunctie":"T001419","RegioS":"GM1708","Perioden":"2024JJ00","BeginstandVoorraad_1":"   24521","Nieuwbouw_2":"     254","OverigeToevoeging_3":"      71","Sloop_4":"      42","OverigeOnttrekking_5":"      22","Correctie_6":"      -2","SaldoVoorraad_7":"     259","EindstandVoorraad_8":"   24780"
+    },{
+      "ID":91524,"Gebruiksfunctie":"T001419","RegioS":"GM0971","Perioden":"2024JJ00","BeginstandVoorraad_1":"   13039","Nieuwbouw_2":"      40","OverigeToevoeging_3":"       7","Sloop_4":"       4","OverigeOnttrekking_5":"      17","Correctie_6":"       1","SaldoVoorraad_7":"      27","EindstandVoorraad_8":"   13066"
+    },{
+      "ID":91750,"Gebruiksfunctie":"T001419","RegioS":"GM1904","Perioden":"2024JJ00","BeginstandVoorraad_1":"   32520","Nieuwbouw_2":"     165","OverigeToevoeging_3":"     289","Sloop_4":"      39","OverigeOnttrekking_5":"      36","Correctie_6":"       3","SaldoVoorraad_7":"     382","EindstandVoorraad_8":"   32902"
+    },{
+      "ID":91976,"Gebruiksfunctie":"T001419","RegioS":"GM0617","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":92202,"Gebruiksfunctie":"T001419","RegioS":"GM1900","Perioden":"2024JJ00","BeginstandVoorraad_1":"   50673","Nieuwbouw_2":"     477","OverigeToevoeging_3":"     139","Sloop_4":"      91","OverigeOnttrekking_5":"      79","Correctie_6":"       3","SaldoVoorraad_7":"     449","EindstandVoorraad_8":"   51122"
+    },{
+      "ID":92428,"Gebruiksfunctie":"T001419","RegioS":"GM0715","Perioden":"2024JJ00","BeginstandVoorraad_1":"   32725","Nieuwbouw_2":"     260","OverigeToevoeging_3":"      67","Sloop_4":"     119","OverigeOnttrekking_5":"      21","Correctie_6":"       0","SaldoVoorraad_7":"     187","EindstandVoorraad_8":"   32912"
+    },{
+      "ID":92654,"Gebruiksfunctie":"T001419","RegioS":"GM0093","Perioden":"2024JJ00","BeginstandVoorraad_1":"    4468","Nieuwbouw_2":"      26","OverigeToevoeging_3":"      50","Sloop_4":"       9","OverigeOnttrekking_5":"      18","Correctie_6":"      31","SaldoVoorraad_7":"      80","EindstandVoorraad_8":"    4548"
+    },{
+      "ID":92880,"Gebruiksfunctie":"T001419","RegioS":"GM0448","Perioden":"2024JJ00","BeginstandVoorraad_1":"   13067","Nieuwbouw_2":"     235","OverigeToevoeging_3":"      19","Sloop_4":"      15","OverigeOnttrekking_5":"      23","Correctie_6":"       1","SaldoVoorraad_7":"     217","EindstandVoorraad_8":"   13284"
+    },{
+      "ID":93106,"Gebruiksfunctie":"T001419","RegioS":"GM1525","Perioden":"2024JJ00","BeginstandVoorraad_1":"   19022","Nieuwbouw_2":"      43","OverigeToevoeging_3":"       5","Sloop_4":"      20","OverigeOnttrekking_5":"       6","Correctie_6":"      -1","SaldoVoorraad_7":"      21","EindstandVoorraad_8":"   19043"
+    },{
+      "ID":93332,"Gebruiksfunctie":"T001419","RegioS":"GM0716","Perioden":"2024JJ00","BeginstandVoorraad_1":"   14399","Nieuwbouw_2":"     159","OverigeToevoeging_3":"      32","Sloop_4":"      67","OverigeOnttrekking_5":"      15","Correctie_6":"       0","SaldoVoorraad_7":"     109","EindstandVoorraad_8":"   14508"
+    },{
+      "ID":93558,"Gebruiksfunctie":"T001419","RegioS":"GM0281","Perioden":"2024JJ00","BeginstandVoorraad_1":"   21858","Nieuwbouw_2":"     246","OverigeToevoeging_3":"      55","Sloop_4":"      31","OverigeOnttrekking_5":"      26","Correctie_6":"      11","SaldoVoorraad_7":"     255","EindstandVoorraad_8":"   22113"
+    },{
+      "ID":93784,"Gebruiksfunctie":"T001419","RegioS":"GM0855","Perioden":"2024JJ00","BeginstandVoorraad_1":"  122410","Nieuwbouw_2":"    1173","OverigeToevoeging_3":"     434","Sloop_4":"     116","OverigeOnttrekking_5":"     200","Correctie_6":"      -8","SaldoVoorraad_7":"    1283","EindstandVoorraad_8":"  123693"
+    },{
+      "ID":94010,"Gebruiksfunctie":"T001419","RegioS":"GM0183","Perioden":"2024JJ00","BeginstandVoorraad_1":"    9711","Nieuwbouw_2":"     114","OverigeToevoeging_3":"      51","Sloop_4":"      21","OverigeOnttrekking_5":"      23","Correctie_6":"       1","SaldoVoorraad_7":"     122","EindstandVoorraad_8":"    9833"
+    },{
+      "ID":94236,"Gebruiksfunctie":"T001419","RegioS":"GM1700","Perioden":"2024JJ00","BeginstandVoorraad_1":"   15991","Nieuwbouw_2":"     119","OverigeToevoeging_3":"      29","Sloop_4":"      32","OverigeOnttrekking_5":"      24","Correctie_6":"      -7","SaldoVoorraad_7":"      85","EindstandVoorraad_8":"   16076"
+    },{
+      "ID":94462,"Gebruiksfunctie":"T001419","RegioS":"GM1730","Perioden":"2024JJ00","BeginstandVoorraad_1":"   17829","Nieuwbouw_2":"      83","OverigeToevoeging_3":"     111","Sloop_4":"      39","OverigeOnttrekking_5":"      69","Correctie_6":"       0","SaldoVoorraad_7":"      86","EindstandVoorraad_8":"   17915"
+    },{
+      "ID":94688,"Gebruiksfunctie":"T001419","RegioS":"GM0737","Perioden":"2024JJ00","BeginstandVoorraad_1":"   16543","Nieuwbouw_2":"     150","OverigeToevoeging_3":"      50","Sloop_4":"      25","OverigeOnttrekking_5":"      16","Correctie_6":"       7","SaldoVoorraad_7":"     166","EindstandVoorraad_8":"   16709"
+    },{
+      "ID":94914,"Gebruiksfunctie":"T001419","RegioS":"GM0282","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":95140,"Gebruiksfunctie":"T001419","RegioS":"GM0856","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":95366,"Gebruiksfunctie":"T001419","RegioS":"GM0450","Perioden":"2024JJ00","BeginstandVoorraad_1":"    6559","Nieuwbouw_2":"     121","OverigeToevoeging_3":"      18","Sloop_4":"       3","OverigeOnttrekking_5":"       7","Correctie_6":"       0","SaldoVoorraad_7":"     129","EindstandVoorraad_8":"    6688"
+    },{
+      "ID":95592,"Gebruiksfunctie":"T001419","RegioS":"GM0451","Perioden":"2024JJ00","BeginstandVoorraad_1":"   15863","Nieuwbouw_2":"     167","OverigeToevoeging_3":"       9","Sloop_4":"      12","OverigeOnttrekking_5":"       1","Correctie_6":"      -1","SaldoVoorraad_7":"     162","EindstandVoorraad_8":"   16025"
+    },{
+      "ID":95818,"Gebruiksfunctie":"T001419","RegioS":"GM0184","Perioden":"2024JJ00","BeginstandVoorraad_1":"    8392","Nieuwbouw_2":"     226","OverigeToevoeging_3":"      18","Sloop_4":"       3","OverigeOnttrekking_5":"      13","Correctie_6":"       0","SaldoVoorraad_7":"     228","EindstandVoorraad_8":"    8620"
+    },{
+      "ID":96044,"Gebruiksfunctie":"T001419","RegioS":"GM0344","Perioden":"2024JJ00","BeginstandVoorraad_1":"  182706","Nieuwbouw_2":"    1675","OverigeToevoeging_3":"     594","Sloop_4":"     394","OverigeOnttrekking_5":"     209","Correctie_6":"      17","SaldoVoorraad_7":"    1683","EindstandVoorraad_8":"  184393"
+    },{
+      "ID":96270,"Gebruiksfunctie":"T001419","RegioS":"GM1581","Perioden":"2024JJ00","BeginstandVoorraad_1":"   26242","Nieuwbouw_2":"      83","OverigeToevoeging_3":"     285","Sloop_4":"     171","OverigeOnttrekking_5":"      22","Correctie_6":"     -41","SaldoVoorraad_7":"     134","EindstandVoorraad_8":"   26376"
+    },{
+      "ID":96496,"Gebruiksfunctie":"T001419","RegioS":"GM0981","Perioden":"2024JJ00","BeginstandVoorraad_1":"    7001","Nieuwbouw_2":"       3","OverigeToevoeging_3":"      10","Sloop_4":"       2","OverigeOnttrekking_5":"       6","Correctie_6":"       0","SaldoVoorraad_7":"       5","EindstandVoorraad_8":"    7006"
+    },{
+      "ID":96722,"Gebruiksfunctie":"T001419","RegioS":"GM0994","Perioden":"2024JJ00","BeginstandVoorraad_1":"   10139","Nieuwbouw_2":"      32","OverigeToevoeging_3":"      14","Sloop_4":"      16","OverigeOnttrekking_5":"      16","Correctie_6":"       0","SaldoVoorraad_7":"      14","EindstandVoorraad_8":"   10153"
+    },{
+      "ID":96948,"Gebruiksfunctie":"T001419","RegioS":"GM0858","Perioden":"2024JJ00","BeginstandVoorraad_1":"   17306","Nieuwbouw_2":"     125","OverigeToevoeging_3":"      35","Sloop_4":"      64","OverigeOnttrekking_5":"      26","Correctie_6":"      11","SaldoVoorraad_7":"      81","EindstandVoorraad_8":"   17387"
+    },{
+      "ID":97174,"Gebruiksfunctie":"T001419","RegioS":"GM0047","Perioden":"2024JJ00","BeginstandVoorraad_1":"   15248","Nieuwbouw_2":"     123","OverigeToevoeging_3":"      19","Sloop_4":"      33","OverigeOnttrekking_5":"       8","Correctie_6":"      -2","SaldoVoorraad_7":"      99","EindstandVoorraad_8":"   15347"
+    },{
+      "ID":97400,"Gebruiksfunctie":"T001419","RegioS":"GM0345","Perioden":"2024JJ00","BeginstandVoorraad_1":"   33525","Nieuwbouw_2":"     460","OverigeToevoeging_3":"      43","Sloop_4":"      84","OverigeOnttrekking_5":"     106","Correctie_6":"       0","SaldoVoorraad_7":"     313","EindstandVoorraad_8":"   33838"
+    },{
+      "ID":97626,"Gebruiksfunctie":"T001419","RegioS":"GM0717","Perioden":"2024JJ00","BeginstandVoorraad_1":"   17793","Nieuwbouw_2":"      99","OverigeToevoeging_3":"      78","Sloop_4":"      38","OverigeOnttrekking_5":"      25","Correctie_6":"       4","SaldoVoorraad_7":"     118","EindstandVoorraad_8":"   17911"
+    },{
+      "ID":97852,"Gebruiksfunctie":"T001419","RegioS":"GM0860","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":98078,"Gebruiksfunctie":"T001419","RegioS":"GM0861","Perioden":"2024JJ00","BeginstandVoorraad_1":"   23537","Nieuwbouw_2":"     356","OverigeToevoeging_3":"      26","Sloop_4":"      34","OverigeOnttrekking_5":"      21","Correctie_6":"      -1","SaldoVoorraad_7":"     326","EindstandVoorraad_8":"   23863"
+    },{
+      "ID":98304,"Gebruiksfunctie":"T001419","RegioS":"GM0453","Perioden":"2024JJ00","BeginstandVoorraad_1":"   38583","Nieuwbouw_2":"     253","OverigeToevoeging_3":"     102","Sloop_4":"      21","OverigeOnttrekking_5":"      49","Correctie_6":"       2","SaldoVoorraad_7":"     287","EindstandVoorraad_8":"   38870"
+    },{
+      "ID":98530,"Gebruiksfunctie":"T001419","RegioS":"GM0983","Perioden":"2024JJ00","BeginstandVoorraad_1":"   57646","Nieuwbouw_2":"     186","OverigeToevoeging_3":"     134","Sloop_4":"     139","OverigeOnttrekking_5":"      78","Correctie_6":"      21","SaldoVoorraad_7":"     124","EindstandVoorraad_8":"   57770"
+    },{
+      "ID":98756,"Gebruiksfunctie":"T001419","RegioS":"GM0984","Perioden":"2024JJ00","BeginstandVoorraad_1":"   22435","Nieuwbouw_2":"     102","OverigeToevoeging_3":"      99","Sloop_4":"      24","OverigeOnttrekking_5":"      32","Correctie_6":"       0","SaldoVoorraad_7":"     145","EindstandVoorraad_8":"   22580"
+    },{
+      "ID":98982,"Gebruiksfunctie":"T001419","RegioS":"GM0620","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":99208,"Gebruiksfunctie":"T001419","RegioS":"GM1961","Perioden":"2024JJ00","BeginstandVoorraad_1":"   29162","Nieuwbouw_2":"     415","OverigeToevoeging_3":"      79","Sloop_4":"      37","OverigeOnttrekking_5":"      32","Correctie_6":"      -2","SaldoVoorraad_7":"     423","EindstandVoorraad_8":"   29585"
+    },{
+      "ID":99434,"Gebruiksfunctie":"T001419","RegioS":"GM0622","Perioden":"2024JJ00","BeginstandVoorraad_1":"   41293","Nieuwbouw_2":"     263","OverigeToevoeging_3":"      35","Sloop_4":"       1","OverigeOnttrekking_5":"      19","Correctie_6":"       2","SaldoVoorraad_7":"     280","EindstandVoorraad_8":"   41573"
+    },{
+      "ID":99660,"Gebruiksfunctie":"T001419","RegioS":"GM0048","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":99886,"Gebruiksfunctie":"T001419","RegioS":"GM0096","Perioden":"2024JJ00","BeginstandVoorraad_1":"    1383","Nieuwbouw_2":"       4","OverigeToevoeging_3":"      20","Sloop_4":"       6","OverigeOnttrekking_5":"       4","Correctie_6":"      -2","SaldoVoorraad_7":"      12","EindstandVoorraad_8":"    1395"
+    },{
+      "ID":100112,"Gebruiksfunctie":"T001419","RegioS":"GM0718","Perioden":"2024JJ00","BeginstandVoorraad_1":"   27754","Nieuwbouw_2":"     339","OverigeToevoeging_3":"     117","Sloop_4":"     114","OverigeOnttrekking_5":"      49","Correctie_6":"       0","SaldoVoorraad_7":"     293","EindstandVoorraad_8":"   28047"
+    },{
+      "ID":100338,"Gebruiksfunctie":"T001419","RegioS":"GM0623","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":100564,"Gebruiksfunctie":"T001419","RegioS":"GM0986","Perioden":"2024JJ00","BeginstandVoorraad_1":"    6391","Nieuwbouw_2":"      10","OverigeToevoeging_3":"      12","Sloop_4":"       1","OverigeOnttrekking_5":"      12","Correctie_6":"       0","SaldoVoorraad_7":"       9","EindstandVoorraad_8":"    6400"
+    },{
+      "ID":100790,"Gebruiksfunctie":"T001419","RegioS":"GM1992","Perioden":"2024JJ00","BeginstandVoorraad_1":"   38380","Nieuwbouw_2":"     415","OverigeToevoeging_3":"      62","Sloop_4":"      31","OverigeOnttrekking_5":"      49","Correctie_6":"      74","SaldoVoorraad_7":"     471","EindstandVoorraad_8":"   38851"
+    },{
+      "ID":101016,"Gebruiksfunctie":"T001419","RegioS":"GM0626","Perioden":"2024JJ00","BeginstandVoorraad_1":"   13373","Nieuwbouw_2":"     138","OverigeToevoeging_3":"       2","Sloop_4":"       6","OverigeOnttrekking_5":"      62","Correctie_6":"       2","SaldoVoorraad_7":"      74","EindstandVoorraad_8":"   13447"
+    },{
+      "ID":101242,"Gebruiksfunctie":"T001419","RegioS":"GM0285","Perioden":"2024JJ00","BeginstandVoorraad_1":"   12478","Nieuwbouw_2":"     159","OverigeToevoeging_3":"      46","Sloop_4":"      20","OverigeOnttrekking_5":"      40","Correctie_6":"      -1","SaldoVoorraad_7":"     144","EindstandVoorraad_8":"   12622"
+    },{
+      "ID":101468,"Gebruiksfunctie":"T001419","RegioS":"GM0865","Perioden":"2024JJ00","BeginstandVoorraad_1":"   16340","Nieuwbouw_2":"      60","OverigeToevoeging_3":"      77","Sloop_4":"      54","OverigeOnttrekking_5":"      30","Correctie_6":"      21","SaldoVoorraad_7":"      74","EindstandVoorraad_8":"   16414"
+    },{
+      "ID":101694,"Gebruiksfunctie":"T001419","RegioS":"GM1949","Perioden":"2024JJ00","BeginstandVoorraad_1":"   24206","Nieuwbouw_2":"     142","OverigeToevoeging_3":"      26","Sloop_4":"      17","OverigeOnttrekking_5":"      20","Correctie_6":"      -5","SaldoVoorraad_7":"     126","EindstandVoorraad_8":"   24332"
+    },{
+      "ID":101920,"Gebruiksfunctie":"T001419","RegioS":"GM0866","Perioden":"2024JJ00","BeginstandVoorraad_1":"    8899","Nieuwbouw_2":"      58","OverigeToevoeging_3":"      17","Sloop_4":"      11","OverigeOnttrekking_5":"      24","Correctie_6":"      13","SaldoVoorraad_7":"      53","EindstandVoorraad_8":"    8953"
+    },{
+      "ID":102146,"Gebruiksfunctie":"T001419","RegioS":"GM0867","Perioden":"2024JJ00","BeginstandVoorraad_1":"   25962","Nieuwbouw_2":"     332","OverigeToevoeging_3":"      65","Sloop_4":"      44","OverigeOnttrekking_5":"      71","Correctie_6":"       0","SaldoVoorraad_7":"     282","EindstandVoorraad_8":"   26244"
+    },{
+      "ID":102372,"Gebruiksfunctie":"T001419","RegioS":"GM0627","Perioden":"2024JJ00","BeginstandVoorraad_1":"   16125","Nieuwbouw_2":"     470","OverigeToevoeging_3":"      47","Sloop_4":"       9","OverigeOnttrekking_5":"      18","Correctie_6":"       0","SaldoVoorraad_7":"     490","EindstandVoorraad_8":"   16615"
+    },{
+      "ID":102598,"Gebruiksfunctie":"T001419","RegioS":"GM0289","Perioden":"2024JJ00","BeginstandVoorraad_1":"   21043","Nieuwbouw_2":"     258","OverigeToevoeging_3":"      20","Sloop_4":"       4","OverigeOnttrekking_5":"      12","Correctie_6":"      -1","SaldoVoorraad_7":"     261","EindstandVoorraad_8":"   21304"
+    },{
+      "ID":102824,"Gebruiksfunctie":"T001419","RegioS":"GM0629","Perioden":"2024JJ00","BeginstandVoorraad_1":"   14057","Nieuwbouw_2":"     104","OverigeToevoeging_3":"      56","Sloop_4":"      46","OverigeOnttrekking_5":"      11","Correctie_6":"       0","SaldoVoorraad_7":"     103","EindstandVoorraad_8":"   14160"
+    },{
+      "ID":103050,"Gebruiksfunctie":"T001419","RegioS":"GM0852","Perioden":"2024JJ00","BeginstandVoorraad_1":"    8562","Nieuwbouw_2":"      17","OverigeToevoeging_3":"      20","Sloop_4":"      21","OverigeOnttrekking_5":"      12","Correctie_6":"       0","SaldoVoorraad_7":"       4","EindstandVoorraad_8":"    8566"
+    },{
+      "ID":103276,"Gebruiksfunctie":"T001419","RegioS":"GM0988","Perioden":"2024JJ00","BeginstandVoorraad_1":"   27034","Nieuwbouw_2":"     235","OverigeToevoeging_3":"     121","Sloop_4":"      28","OverigeOnttrekking_5":"      37","Correctie_6":"       4","SaldoVoorraad_7":"     295","EindstandVoorraad_8":"   27329"
+    },{
+      "ID":103502,"Gebruiksfunctie":"T001419","RegioS":"GM0457","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":103728,"Gebruiksfunctie":"T001419","RegioS":"GM0870","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":103954,"Gebruiksfunctie":"T001419","RegioS":"GM1960","Perioden":"2024JJ00","BeginstandVoorraad_1":"   24245","Nieuwbouw_2":"     274","OverigeToevoeging_3":"      22","Sloop_4":"      68","OverigeOnttrekking_5":"      17","Correctie_6":"       2","SaldoVoorraad_7":"     213","EindstandVoorraad_8":"   24458"
+    },{
+      "ID":104180,"Gebruiksfunctie":"T001419","RegioS":"GM0668","Perioden":"2024JJ00","BeginstandVoorraad_1":"    9932","Nieuwbouw_2":"     180","OverigeToevoeging_3":"      94","Sloop_4":"      11","OverigeOnttrekking_5":"      16","Correctie_6":"       1","SaldoVoorraad_7":"     248","EindstandVoorraad_8":"   10180"
+    },{
+      "ID":104406,"Gebruiksfunctie":"T001419","RegioS":"GM1969","Perioden":"2024JJ00","BeginstandVoorraad_1":"   30822","Nieuwbouw_2":"     259","OverigeToevoeging_3":"      72","Sloop_4":"      48","OverigeOnttrekking_5":"      59","Correctie_6":"      19","SaldoVoorraad_7":"     243","EindstandVoorraad_8":"   31065"
+    },{
+      "ID":104632,"Gebruiksfunctie":"T001419","RegioS":"GM1701","Perioden":"2024JJ00","BeginstandVoorraad_1":"   10900","Nieuwbouw_2":"      74","OverigeToevoeging_3":"      89","Sloop_4":"      36","OverigeOnttrekking_5":"      69","Correctie_6":"      10","SaldoVoorraad_7":"      68","EindstandVoorraad_8":"   10968"
+    },{
+      "ID":104858,"Gebruiksfunctie":"T001419","RegioS":"GM0293","Perioden":"2024JJ00","BeginstandVoorraad_1":"    7246","Nieuwbouw_2":"       2","OverigeToevoeging_3":"      31","Sloop_4":"       1","OverigeOnttrekking_5":"       5","Correctie_6":"       0","SaldoVoorraad_7":"      27","EindstandVoorraad_8":"    7273"
+    },{
+      "ID":105084,"Gebruiksfunctie":"T001419","RegioS":"GM1950","Perioden":"2024JJ00","BeginstandVoorraad_1":"   13457","Nieuwbouw_2":"      90","OverigeToevoeging_3":"      39","Sloop_4":"      10","OverigeOnttrekking_5":"      19","Correctie_6":"       1","SaldoVoorraad_7":"     101","EindstandVoorraad_8":"   13558"
+    },{
+      "ID":105310,"Gebruiksfunctie":"T001419","RegioS":"GM1783","Perioden":"2024JJ00","BeginstandVoorraad_1":"   56223","Nieuwbouw_2":"     648","OverigeToevoeging_3":"      69","Sloop_4":"      91","OverigeOnttrekking_5":"      63","Correctie_6":"       0","SaldoVoorraad_7":"     563","EindstandVoorraad_8":"   56786"
+    },{
+      "ID":105536,"Gebruiksfunctie":"T001419","RegioS":"GM0098","Perioden":"2024JJ00","BeginstandVoorraad_1":"   14022","Nieuwbouw_2":"      53","OverigeToevoeging_3":"      14","Sloop_4":"      40","OverigeOnttrekking_5":"       9","Correctie_6":"       1","SaldoVoorraad_7":"      19","EindstandVoorraad_8":"   14041"
+    },{
+      "ID":105762,"Gebruiksfunctie":"T001419","RegioS":"GM0614","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":105988,"Gebruiksfunctie":"T001419","RegioS":"GM0189","Perioden":"2024JJ00","BeginstandVoorraad_1":"   12248","Nieuwbouw_2":"     291","OverigeToevoeging_3":"      41","Sloop_4":"      21","OverigeOnttrekking_5":"      24","Correctie_6":"     124","SaldoVoorraad_7":"     411","EindstandVoorraad_8":"   12659"
+    },{
+      "ID":106214,"Gebruiksfunctie":"T001419","RegioS":"GM0296","Perioden":"2024JJ00","BeginstandVoorraad_1":"   20994","Nieuwbouw_2":"     385","OverigeToevoeging_3":"      45","Sloop_4":"      16","OverigeOnttrekking_5":"      16","Correctie_6":"      -3","SaldoVoorraad_7":"     395","EindstandVoorraad_8":"   21389"
+    },{
+      "ID":106440,"Gebruiksfunctie":"T001419","RegioS":"GM1696","Perioden":"2024JJ00","BeginstandVoorraad_1":"   13815","Nieuwbouw_2":"     112","OverigeToevoeging_3":"      60","Sloop_4":"      54","OverigeOnttrekking_5":"      39","Correctie_6":"       6","SaldoVoorraad_7":"      85","EindstandVoorraad_8":"   13900"
+    },{
+      "ID":106666,"Gebruiksfunctie":"T001419","RegioS":"GM0352","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11427","Nieuwbouw_2":"      44","OverigeToevoeging_3":"      24","Sloop_4":"       5","OverigeOnttrekking_5":"       6","Correctie_6":"       7","SaldoVoorraad_7":"      64","EindstandVoorraad_8":"   11491"
+    },{
+      "ID":106892,"Gebruiksfunctie":"T001419","RegioS":"GM0053","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":107118,"Gebruiksfunctie":"T001419","RegioS":"GM0294","Perioden":"2024JJ00","BeginstandVoorraad_1":"   15691","Nieuwbouw_2":"      27","OverigeToevoeging_3":"      40","Sloop_4":"       5","OverigeOnttrekking_5":"      23","Correctie_6":"       3","SaldoVoorraad_7":"      42","EindstandVoorraad_8":"   15733"
+    },{
+      "ID":107344,"Gebruiksfunctie":"T001419","RegioS":"GM0873","Perioden":"2024JJ00","BeginstandVoorraad_1":"   12621","Nieuwbouw_2":"     170","OverigeToevoeging_3":"       8","Sloop_4":"      39","OverigeOnttrekking_5":"      40","Correctie_6":"      31","SaldoVoorraad_7":"     130","EindstandVoorraad_8":"   12751"
+    },{
+      "ID":107570,"Gebruiksfunctie":"T001419","RegioS":"GM0632","Perioden":"2024JJ00","BeginstandVoorraad_1":"   26133","Nieuwbouw_2":"      53","OverigeToevoeging_3":"      49","Sloop_4":"       6","OverigeOnttrekking_5":"      14","Correctie_6":"      -2","SaldoVoorraad_7":"      80","EindstandVoorraad_8":"   26213"
+    },{
+      "ID":107796,"Gebruiksfunctie":"T001419","RegioS":"GM1690","Perioden":"2024JJ00","BeginstandVoorraad_1":"   12332","Nieuwbouw_2":"     130","OverigeToevoeging_3":"      16","Sloop_4":"      12","OverigeOnttrekking_5":"      10","Correctie_6":"       6","SaldoVoorraad_7":"     130","EindstandVoorraad_8":"   12462"
+    },{
+      "ID":108022,"Gebruiksfunctie":"T001419","RegioS":"GM0880","Perioden":"2024JJ00","BeginstandVoorraad_1":"    8275","Nieuwbouw_2":"      88","OverigeToevoeging_3":"      40","Sloop_4":"       9","OverigeOnttrekking_5":"      13","Correctie_6":"       0","SaldoVoorraad_7":"     106","EindstandVoorraad_8":"    8381"
+    },{
+      "ID":108248,"Gebruiksfunctie":"T001419","RegioS":"GM0351","Perioden":"2024JJ00","BeginstandVoorraad_1":"    6494","Nieuwbouw_2":"      49","OverigeToevoeging_3":"       4","Sloop_4":"      16","OverigeOnttrekking_5":"       1","Correctie_6":"       0","SaldoVoorraad_7":"      36","EindstandVoorraad_8":"    6530"
+    },{
+      "ID":108474,"Gebruiksfunctie":"T001419","RegioS":"GM0874","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":108700,"Gebruiksfunctie":"T001419","RegioS":"GM0479","Perioden":"2024JJ00","BeginstandVoorraad_1":"   80808","Nieuwbouw_2":"    1583","OverigeToevoeging_3":"     334","Sloop_4":"     167","OverigeOnttrekking_5":"     132","Correctie_6":"    -239","SaldoVoorraad_7":"    1379","EindstandVoorraad_8":"   82187"
+    },{
+      "ID":108926,"Gebruiksfunctie":"T001419","RegioS":"GM0297","Perioden":"2024JJ00","BeginstandVoorraad_1":"   13915","Nieuwbouw_2":"     324","OverigeToevoeging_3":"      37","Sloop_4":"      11","OverigeOnttrekking_5":"      19","Correctie_6":"       4","SaldoVoorraad_7":"     335","EindstandVoorraad_8":"   14250"
+    },{
+      "ID":109152,"Gebruiksfunctie":"T001419","RegioS":"GM0473","Perioden":"2024JJ00","BeginstandVoorraad_1":"   12020","Nieuwbouw_2":"      73","OverigeToevoeging_3":"      44","Sloop_4":"      11","OverigeOnttrekking_5":"      50","Correctie_6":"      -1","SaldoVoorraad_7":"      55","EindstandVoorraad_8":"   12075"
+    },{
+      "ID":109378,"Gebruiksfunctie":"T001419","RegioS":"GM0707","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":109604,"Gebruiksfunctie":"T001419","RegioS":"GM0478","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":109830,"Gebruiksfunctie":"T001419","RegioS":"GM0050","Perioden":"2024JJ00","BeginstandVoorraad_1":"   12678","Nieuwbouw_2":"     196","OverigeToevoeging_3":"      34","Sloop_4":"       3","OverigeOnttrekking_5":"      11","Correctie_6":"      21","SaldoVoorraad_7":"     237","EindstandVoorraad_8":"   12915"
+    },{
+      "ID":110056,"Gebruiksfunctie":"T001419","RegioS":"GM0355","Perioden":"2024JJ00","BeginstandVoorraad_1":"   33841","Nieuwbouw_2":"     199","OverigeToevoeging_3":"      72","Sloop_4":"      67","OverigeOnttrekking_5":"      38","Correctie_6":"      -8","SaldoVoorraad_7":"     158","EindstandVoorraad_8":"   33999"
+    },{
+      "ID":110282,"Gebruiksfunctie":"T001419","RegioS":"GM0299","Perioden":"2024JJ00","BeginstandVoorraad_1":"   23111","Nieuwbouw_2":"     231","OverigeToevoeging_3":"      35","Sloop_4":"      25","OverigeOnttrekking_5":"      19","Correctie_6":"       6","SaldoVoorraad_7":"     228","EindstandVoorraad_8":"   23339"
+    },{
+      "ID":110508,"Gebruiksfunctie":"T001419","RegioS":"GM0476","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":110734,"Gebruiksfunctie":"T001419","RegioS":"GM0637","Perioden":"2024JJ00","BeginstandVoorraad_1":"   63256","Nieuwbouw_2":"     720","OverigeToevoeging_3":"      74","Sloop_4":"      12","OverigeOnttrekking_5":"      51","Correctie_6":"    -122","SaldoVoorraad_7":"     609","EindstandVoorraad_8":"   63865"
+    },{
+      "ID":110960,"Gebruiksfunctie":"T001419","RegioS":"GM0638","Perioden":"2024JJ00","BeginstandVoorraad_1":"    5010","Nieuwbouw_2":"     444","OverigeToevoeging_3":"       7","Sloop_4":"      13","OverigeOnttrekking_5":"       3","Correctie_6":"       0","SaldoVoorraad_7":"     435","EindstandVoorraad_8":"    5445"
+    },{
+      "ID":111186,"Gebruiksfunctie":"T001419","RegioS":"GM0056","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":111412,"Gebruiksfunctie":"T001419","RegioS":"GM1892","Perioden":"2024JJ00","BeginstandVoorraad_1":"   23341","Nieuwbouw_2":"     436","OverigeToevoeging_3":"      45","Sloop_4":"      48","OverigeOnttrekking_5":"      23","Correctie_6":"       3","SaldoVoorraad_7":"     413","EindstandVoorraad_8":"   23754"
+    },{
+      "ID":111638,"Gebruiksfunctie":"T001419","RegioS":"GM0879","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11392","Nieuwbouw_2":"     170","OverigeToevoeging_3":"      79","Sloop_4":"      15","OverigeOnttrekking_5":"      70","Correctie_6":"       0","SaldoVoorraad_7":"     164","EindstandVoorraad_8":"   11556"
+    },{
+      "ID":111864,"Gebruiksfunctie":"T001419","RegioS":"GM0301","Perioden":"2024JJ00","BeginstandVoorraad_1":"   26911","Nieuwbouw_2":"     197","OverigeToevoeging_3":"      58","Sloop_4":"      52","OverigeOnttrekking_5":"      34","Correctie_6":"       2","SaldoVoorraad_7":"     171","EindstandVoorraad_8":"   27082"
+    },{
+      "ID":112090,"Gebruiksfunctie":"T001419","RegioS":"GM1896","Perioden":"2024JJ00","BeginstandVoorraad_1":"   10871","Nieuwbouw_2":"     103","OverigeToevoeging_3":"       9","Sloop_4":"      17","OverigeOnttrekking_5":"      13","Correctie_6":"       3","SaldoVoorraad_7":"      85","EindstandVoorraad_8":"   10956"
+    },{
+      "ID":112316,"Gebruiksfunctie":"T001419","RegioS":"GM0642","Perioden":"2024JJ00","BeginstandVoorraad_1":"   23999","Nieuwbouw_2":"      84","OverigeToevoeging_3":"      33","Sloop_4":"     143","OverigeOnttrekking_5":"      24","Correctie_6":"       1","SaldoVoorraad_7":"     -49","EindstandVoorraad_8":"   23950"
+    },{
+      "ID":112542,"Gebruiksfunctie":"T001419","RegioS":"GM0193","Perioden":"2024JJ00","BeginstandVoorraad_1":"   69003","Nieuwbouw_2":"     468","OverigeToevoeging_3":"     155","Sloop_4":"      35","OverigeOnttrekking_5":"     108","Correctie_6":"       4","SaldoVoorraad_7":"     484","EindstandVoorraad_8":"   69487"
+    },{
+      "ID":125650,"Gebruiksfunctie":"A045364","RegioS":"GM1680","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11500","Nieuwbouw_2":"      60","OverigeToevoeging_3":"      15","Sloop_4":"      16","OverigeOnttrekking_5":"      23","Correctie_6":"      19","SaldoVoorraad_7":"      55","EindstandVoorraad_8":"   11555"
+    },{
+      "ID":125876,"Gebruiksfunctie":"A045364","RegioS":"GM0738","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":126102,"Gebruiksfunctie":"A045364","RegioS":"GM0358","Perioden":"2024JJ00","BeginstandVoorraad_1":"   13698","Nieuwbouw_2":"      31","OverigeToevoeging_3":"      12","Sloop_4":"       2","OverigeOnttrekking_5":"       6","Correctie_6":"      -2","SaldoVoorraad_7":"      33","EindstandVoorraad_8":"   13731"
+    },{
+      "ID":126328,"Gebruiksfunctie":"A045364","RegioS":"GM0197","Perioden":"2024JJ00","BeginstandVoorraad_1":"   12212","Nieuwbouw_2":"     112","OverigeToevoeging_3":"      45","Sloop_4":"      16","OverigeOnttrekking_5":"       9","Correctie_6":"       2","SaldoVoorraad_7":"     134","EindstandVoorraad_8":"   12346"
+    },{
+      "ID":126554,"Gebruiksfunctie":"A045364","RegioS":"GM0059","Perioden":"2024JJ00","BeginstandVoorraad_1":"   12376","Nieuwbouw_2":"      60","OverigeToevoeging_3":"      20","Sloop_4":"      39","OverigeOnttrekking_5":"       2","Correctie_6":"       1","SaldoVoorraad_7":"      40","EindstandVoorraad_8":"   12416"
+    },{
+      "ID":126780,"Gebruiksfunctie":"A045364","RegioS":"GM0482","Perioden":"2024JJ00","BeginstandVoorraad_1":"    8473","Nieuwbouw_2":"       8","OverigeToevoeging_3":"      16","Sloop_4":"       0","OverigeOnttrekking_5":"       3","Correctie_6":"      -1","SaldoVoorraad_7":"      20","EindstandVoorraad_8":"    8493"
+    },{
+      "ID":127006,"Gebruiksfunctie":"A045364","RegioS":"GM0613","Perioden":"2024JJ00","BeginstandVoorraad_1":"   10763","Nieuwbouw_2":"      74","OverigeToevoeging_3":"       4","Sloop_4":"      37","OverigeOnttrekking_5":"       7","Correctie_6":"       0","SaldoVoorraad_7":"      34","EindstandVoorraad_8":"   10797"
+    },{
+      "ID":127232,"Gebruiksfunctie":"A045364","RegioS":"GM0361","Perioden":"2024JJ00","BeginstandVoorraad_1":"   53936","Nieuwbouw_2":"     809","OverigeToevoeging_3":"     168","Sloop_4":"     118","OverigeOnttrekking_5":"      75","Correctie_6":"      19","SaldoVoorraad_7":"     803","EindstandVoorraad_8":"   54739"
+    },{
+      "ID":127458,"Gebruiksfunctie":"A045364","RegioS":"GM0141","Perioden":"2024JJ00","BeginstandVoorraad_1":"   34496","Nieuwbouw_2":"     175","OverigeToevoeging_3":"      73","Sloop_4":"      24","OverigeOnttrekking_5":"      12","Correctie_6":"       1","SaldoVoorraad_7":"     213","EindstandVoorraad_8":"   34709"
+    },{
+      "ID":127684,"Gebruiksfunctie":"A045364","RegioS":"GM0034","Perioden":"2024JJ00","BeginstandVoorraad_1":"   92353","Nieuwbouw_2":"    1552","OverigeToevoeging_3":"     149","Sloop_4":"       2","OverigeOnttrekking_5":"       5","Correctie_6":"      -2","SaldoVoorraad_7":"    1692","EindstandVoorraad_8":"   94045"
+    },{
+      "ID":127910,"Gebruiksfunctie":"A045364","RegioS":"GM0484","Perioden":"2024JJ00","BeginstandVoorraad_1":"   50799","Nieuwbouw_2":"     341","OverigeToevoeging_3":"      76","Sloop_4":"     104","OverigeOnttrekking_5":"      46","Correctie_6":"       3","SaldoVoorraad_7":"     270","EindstandVoorraad_8":"   51069"
+    },{
+      "ID":128136,"Gebruiksfunctie":"A045364","RegioS":"GM1723","Perioden":"2024JJ00","BeginstandVoorraad_1":"    4580","Nieuwbouw_2":"      39","OverigeToevoeging_3":"       7","Sloop_4":"       5","OverigeOnttrekking_5":"       2","Correctie_6":"       0","SaldoVoorraad_7":"      39","EindstandVoorraad_8":"    4619"
+    },{
+      "ID":128362,"Gebruiksfunctie":"A045364","RegioS":"GM1959","Perioden":"2024JJ00","BeginstandVoorraad_1":"   23370","Nieuwbouw_2":"     269","OverigeToevoeging_3":"      37","Sloop_4":"      25","OverigeOnttrekking_5":"      13","Correctie_6":"       4","SaldoVoorraad_7":"     272","EindstandVoorraad_8":"   23642"
+    },{
+      "ID":128588,"Gebruiksfunctie":"A045364","RegioS":"GM0060","Perioden":"2024JJ00","BeginstandVoorraad_1":"    1891","Nieuwbouw_2":"      13","OverigeToevoeging_3":"      11","Sloop_4":"       0","OverigeOnttrekking_5":"       2","Correctie_6":"       0","SaldoVoorraad_7":"      22","EindstandVoorraad_8":"    1913"
+    },{
+      "ID":128814,"Gebruiksfunctie":"A045364","RegioS":"GM0307","Perioden":"2024JJ00","BeginstandVoorraad_1":"   71416","Nieuwbouw_2":"     830","OverigeToevoeging_3":"     188","Sloop_4":"      10","OverigeOnttrekking_5":"      63","Correctie_6":"       6","SaldoVoorraad_7":"     951","EindstandVoorraad_8":"   72367"
+    },{
+      "ID":129040,"Gebruiksfunctie":"A045364","RegioS":"GM0362","Perioden":"2024JJ00","BeginstandVoorraad_1":"   42918","Nieuwbouw_2":"     640","OverigeToevoeging_3":"      42","Sloop_4":"       9","OverigeOnttrekking_5":"      14","Correctie_6":"       1","SaldoVoorraad_7":"     660","EindstandVoorraad_8":"   43578"
+    },{
+      "ID":129266,"Gebruiksfunctie":"A045364","RegioS":"GM0363","Perioden":"2024JJ00","BeginstandVoorraad_1":"  480852","Nieuwbouw_2":"    5770","OverigeToevoeging_3":"    1347","Sloop_4":"     474","OverigeOnttrekking_5":"     697","Correctie_6":"     -29","SaldoVoorraad_7":"    5917","EindstandVoorraad_8":"  486769"
+    },{
+      "ID":129492,"Gebruiksfunctie":"A045364","RegioS":"GM0200","Perioden":"2024JJ00","BeginstandVoorraad_1":"   75659","Nieuwbouw_2":"     309","OverigeToevoeging_3":"     196","Sloop_4":"      82","OverigeOnttrekking_5":"      98","Correctie_6":"      10","SaldoVoorraad_7":"     335","EindstandVoorraad_8":"   75994"
+    },{
+      "ID":129718,"Gebruiksfunctie":"A045364","RegioS":"GM0003","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":129944,"Gebruiksfunctie":"A045364","RegioS":"GM0202","Perioden":"2024JJ00","BeginstandVoorraad_1":"   80665","Nieuwbouw_2":"     789","OverigeToevoeging_3":"     164","Sloop_4":"      41","OverigeOnttrekking_5":"      56","Correctie_6":"       9","SaldoVoorraad_7":"     865","EindstandVoorraad_8":"   81530"
+    },{
+      "ID":130170,"Gebruiksfunctie":"A045364","RegioS":"GM0106","Perioden":"2024JJ00","BeginstandVoorraad_1":"   33215","Nieuwbouw_2":"     308","OverigeToevoeging_3":"      28","Sloop_4":"     143","OverigeOnttrekking_5":"       7","Correctie_6":"       0","SaldoVoorraad_7":"     186","EindstandVoorraad_8":"   33401"
+    },{
+      "ID":130396,"Gebruiksfunctie":"A045364","RegioS":"GM0743","Perioden":"2024JJ00","BeginstandVoorraad_1":"    7335","Nieuwbouw_2":"      89","OverigeToevoeging_3":"      25","Sloop_4":"       4","OverigeOnttrekking_5":"       6","Correctie_6":"      -3","SaldoVoorraad_7":"     101","EindstandVoorraad_8":"    7436"
+    },{
+      "ID":130622,"Gebruiksfunctie":"A045364","RegioS":"GM0744","Perioden":"2024JJ00","BeginstandVoorraad_1":"    3012","Nieuwbouw_2":"      33","OverigeToevoeging_3":"      45","Sloop_4":"       1","OverigeOnttrekking_5":"       3","Correctie_6":"       0","SaldoVoorraad_7":"      74","EindstandVoorraad_8":"    3086"
+    },{
+      "ID":130848,"Gebruiksfunctie":"A045364","RegioS":"GM0308","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11923","Nieuwbouw_2":"      15","OverigeToevoeging_3":"      25","Sloop_4":"      10","OverigeOnttrekking_5":"       6","Correctie_6":"       0","SaldoVoorraad_7":"      24","EindstandVoorraad_8":"   11947"
+    },{
+      "ID":131074,"Gebruiksfunctie":"A045364","RegioS":"GM0489","Perioden":"2024JJ00","BeginstandVoorraad_1":"   19697","Nieuwbouw_2":"      46","OverigeToevoeging_3":"       2","Sloop_4":"      66","OverigeOnttrekking_5":"       3","Correctie_6":"       0","SaldoVoorraad_7":"     -21","EindstandVoorraad_8":"   19676"
+    },{
+      "ID":131300,"Gebruiksfunctie":"A045364","RegioS":"GM0203","Perioden":"2024JJ00","BeginstandVoorraad_1":"   24148","Nieuwbouw_2":"     296","OverigeToevoeging_3":"      58","Sloop_4":"      37","OverigeOnttrekking_5":"      17","Correctie_6":"      -2","SaldoVoorraad_7":"     298","EindstandVoorraad_8":"   24446"
+    },{
+      "ID":131526,"Gebruiksfunctie":"A045364","RegioS":"GM0005","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":131752,"Gebruiksfunctie":"A045364","RegioS":"GM0888","Perioden":"2024JJ00","BeginstandVoorraad_1":"    7550","Nieuwbouw_2":"      27","OverigeToevoeging_3":"       3","Sloop_4":"       0","OverigeOnttrekking_5":"       0","Correctie_6":"       1","SaldoVoorraad_7":"      31","EindstandVoorraad_8":"    7581"
+    },{
+      "ID":131978,"Gebruiksfunctie":"A045364","RegioS":"GM1954","Perioden":"2024JJ00","BeginstandVoorraad_1":"   16822","Nieuwbouw_2":"     169","OverigeToevoeging_3":"      25","Sloop_4":"      96","OverigeOnttrekking_5":"      11","Correctie_6":"       6","SaldoVoorraad_7":"      93","EindstandVoorraad_8":"   16915"
+    },{
+      "ID":132204,"Gebruiksfunctie":"A045364","RegioS":"GM0370","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":132430,"Gebruiksfunctie":"A045364","RegioS":"GM0889","Perioden":"2024JJ00","BeginstandVoorraad_1":"    6107","Nieuwbouw_2":"     112","OverigeToevoeging_3":"       6","Sloop_4":"       3","OverigeOnttrekking_5":"       4","Correctie_6":"       0","SaldoVoorraad_7":"     111","EindstandVoorraad_8":"    6218"
+    },{
+      "ID":132656,"Gebruiksfunctie":"A045364","RegioS":"GM0007","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":132882,"Gebruiksfunctie":"A045364","RegioS":"GM1945","Perioden":"2024JJ00","BeginstandVoorraad_1":"   16278","Nieuwbouw_2":"      76","OverigeToevoeging_3":"      10","Sloop_4":"      11","OverigeOnttrekking_5":"       9","Correctie_6":"       1","SaldoVoorraad_7":"      67","EindstandVoorraad_8":"   16345"
+    },{
+      "ID":133108,"Gebruiksfunctie":"A045364","RegioS":"GM0491","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":133334,"Gebruiksfunctie":"A045364","RegioS":"GM1724","Perioden":"2024JJ00","BeginstandVoorraad_1":"    8343","Nieuwbouw_2":"      90","OverigeToevoeging_3":"      12","Sloop_4":"      10","OverigeOnttrekking_5":"       5","Correctie_6":"       1","SaldoVoorraad_7":"      88","EindstandVoorraad_8":"    8431"
+    },{
+      "ID":133560,"Gebruiksfunctie":"A045364","RegioS":"GM0893","Perioden":"2024JJ00","BeginstandVoorraad_1":"    5867","Nieuwbouw_2":"      13","OverigeToevoeging_3":"      10","Sloop_4":"       1","OverigeOnttrekking_5":"       3","Correctie_6":"       1","SaldoVoorraad_7":"      20","EindstandVoorraad_8":"    5887"
+    },{
+      "ID":133786,"Gebruiksfunctie":"A045364","RegioS":"GM0373","Perioden":"2024JJ00","BeginstandVoorraad_1":"   15491","Nieuwbouw_2":"      60","OverigeToevoeging_3":"      47","Sloop_4":"      17","OverigeOnttrekking_5":"      33","Correctie_6":"       2","SaldoVoorraad_7":"      59","EindstandVoorraad_8":"   15550"
+    },{
+      "ID":134012,"Gebruiksfunctie":"A045364","RegioS":"GM0748","Perioden":"2024JJ00","BeginstandVoorraad_1":"   32087","Nieuwbouw_2":"     216","OverigeToevoeging_3":"      20","Sloop_4":"     262","OverigeOnttrekking_5":"       5","Correctie_6":"       0","SaldoVoorraad_7":"     -31","EindstandVoorraad_8":"   32056"
+    },{
+      "ID":134238,"Gebruiksfunctie":"A045364","RegioS":"GM1859","Perioden":"2024JJ00","BeginstandVoorraad_1":"   19930","Nieuwbouw_2":"     102","OverigeToevoeging_3":"      42","Sloop_4":"      34","OverigeOnttrekking_5":"      26","Correctie_6":"       1","SaldoVoorraad_7":"      85","EindstandVoorraad_8":"   20015"
+    },{
+      "ID":134464,"Gebruiksfunctie":"A045364","RegioS":"GM1721","Perioden":"2024JJ00","BeginstandVoorraad_1":"   13436","Nieuwbouw_2":"     245","OverigeToevoeging_3":"      28","Sloop_4":"      20","OverigeOnttrekking_5":"      29","Correctie_6":"      -2","SaldoVoorraad_7":"     222","EindstandVoorraad_8":"   13658"
+    },{
+      "ID":134690,"Gebruiksfunctie":"A045364","RegioS":"GM0568","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":134916,"Gebruiksfunctie":"A045364","RegioS":"GM0753","Perioden":"2024JJ00","BeginstandVoorraad_1":"   13461","Nieuwbouw_2":"     185","OverigeToevoeging_3":"       5","Sloop_4":"       4","OverigeOnttrekking_5":"       4","Correctie_6":"       7","SaldoVoorraad_7":"     189","EindstandVoorraad_8":"   13650"
+    },{
+      "ID":135142,"Gebruiksfunctie":"A045364","RegioS":"GM0209","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11526","Nieuwbouw_2":"      22","OverigeToevoeging_3":"      12","Sloop_4":"       3","OverigeOnttrekking_5":"       3","Correctie_6":"       2","SaldoVoorraad_7":"      30","EindstandVoorraad_8":"   11556"
+    },{
+      "ID":135368,"Gebruiksfunctie":"A045364","RegioS":"GM0375","Perioden":"2024JJ00","BeginstandVoorraad_1":"   20015","Nieuwbouw_2":"     143","OverigeToevoeging_3":"      23","Sloop_4":"      16","OverigeOnttrekking_5":"      11","Correctie_6":"       0","SaldoVoorraad_7":"     139","EindstandVoorraad_8":"   20154"
+    },{
+      "ID":135594,"Gebruiksfunctie":"A045364","RegioS":"GM0063","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":135820,"Gebruiksfunctie":"A045364","RegioS":"GM0310","Perioden":"2024JJ00","BeginstandVoorraad_1":"   19906","Nieuwbouw_2":"      72","OverigeToevoeging_3":"      30","Sloop_4":"       6","OverigeOnttrekking_5":"       5","Correctie_6":"       3","SaldoVoorraad_7":"      94","EindstandVoorraad_8":"   20000"
+    },{
+      "ID":136046,"Gebruiksfunctie":"A045364","RegioS":"GM0585","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":136272,"Gebruiksfunctie":"A045364","RegioS":"GM1728","Perioden":"2024JJ00","BeginstandVoorraad_1":"    9170","Nieuwbouw_2":"      33","OverigeToevoeging_3":"      35","Sloop_4":"       7","OverigeOnttrekking_5":"       5","Correctie_6":"       2","SaldoVoorraad_7":"      58","EindstandVoorraad_8":"    9228"
+    },{
+      "ID":136498,"Gebruiksfunctie":"A045364","RegioS":"GM0376","Perioden":"2024JJ00","BeginstandVoorraad_1":"    5375","Nieuwbouw_2":"       5","OverigeToevoeging_3":"      12","Sloop_4":"       8","OverigeOnttrekking_5":"       4","Correctie_6":"       0","SaldoVoorraad_7":"       5","EindstandVoorraad_8":"    5380"
+    },{
+      "ID":136724,"Gebruiksfunctie":"A045364","RegioS":"GM0377","Perioden":"2024JJ00","BeginstandVoorraad_1":"   10376","Nieuwbouw_2":"      12","OverigeToevoeging_3":"       8","Sloop_4":"       1","OverigeOnttrekking_5":"       6","Correctie_6":"       0","SaldoVoorraad_7":"      13","EindstandVoorraad_8":"   10389"
+    },{
+      "ID":136950,"Gebruiksfunctie":"A045364","RegioS":"GM0055","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":137176,"Gebruiksfunctie":"A045364","RegioS":"GM1901","Perioden":"2024JJ00","BeginstandVoorraad_1":"   15181","Nieuwbouw_2":"      86","OverigeToevoeging_3":"      16","Sloop_4":"       8","OverigeOnttrekking_5":"       2","Correctie_6":"       0","SaldoVoorraad_7":"      92","EindstandVoorraad_8":"   15273"
+    },{
+      "ID":137402,"Gebruiksfunctie":"A045364","RegioS":"GM0755","Perioden":"2024JJ00","BeginstandVoorraad_1":"    4615","Nieuwbouw_2":"      74","OverigeToevoeging_3":"       6","Sloop_4":"      10","OverigeOnttrekking_5":"      14","Correctie_6":"       0","SaldoVoorraad_7":"      56","EindstandVoorraad_8":"    4671"
+    },{
+      "ID":137628,"Gebruiksfunctie":"A045364","RegioS":"GM0009","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":137854,"Gebruiksfunctie":"A045364","RegioS":"GM1681","Perioden":"2024JJ00","BeginstandVoorraad_1":"   11537","Nieuwbouw_2":"      98","OverigeToevoeging_3":"      21","Sloop_4":"      25","OverigeOnttrekking_5":"      11","Correctie_6":"       8","SaldoVoorraad_7":"      91","EindstandVoorraad_8":"   11628"
+    },{
+      "ID":138080,"Gebruiksfunctie":"A045364","RegioS":"GM0147","Perioden":"2024JJ00","BeginstandVoorraad_1":"   10468","Nieuwbouw_2":"      66","OverigeToevoeging_3":"       3","Sloop_4":"       1","OverigeOnttrekking_5":"       2","Correctie_6":"       1","SaldoVoorraad_7":"      67","EindstandVoorraad_8":"   10535"
+    },{
+      "ID":138306,"Gebruiksfunctie":"A045364","RegioS":"GM0654","Perioden":"2024JJ00","BeginstandVoorraad_1":"   10099","Nieuwbouw_2":"      25","OverigeToevoeging_3":"       8","Sloop_4":"      10","OverigeOnttrekking_5":"       4","Correctie_6":"       2","SaldoVoorraad_7":"      21","EindstandVoorraad_8":"   10120"
+    },{
+      "ID":138532,"Gebruiksfunctie":"A045364","RegioS":"GM0499","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    },{
+      "ID":138758,"Gebruiksfunctie":"A045364","RegioS":"GM0756","Perioden":"2024JJ00","BeginstandVoorraad_1":"","Nieuwbouw_2":"","OverigeToevoeging_3":"","Sloop_4":"","OverigeOnttrekking_5":"","Correctie_6":"","SaldoVoorraad_7":"","EindstandVoorraad_8":""
+    }
+  ]
+}

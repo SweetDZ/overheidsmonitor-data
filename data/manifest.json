@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-23T18:15:06Z",
+  "last_updated": "2026-04-23T18:17:31Z",
   "jaar": 2024,
   "dataset": "81955NED",
   "nieuwbouw_bytes": 157583,
-  "vergunningen_bytes": 13,
+  "vergunningen_bytes": 157583,
   "gemeenten_bytes": 23074,
   "bron": "CBS StatLine 81955NED",
   "licentie": "CC-BY 4.0"
